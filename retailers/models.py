@@ -16,3 +16,17 @@ class Retailer(models.Model):
     
     def __str__(self):
         return self.name
+
+class Product(models.Model):
+    image = models.ImageField()
+    name = models.CharField(max_length=255)
+    description = models.CharField(max_length = 500)
+    price = models.IntegerField()    
+    stock-available = models.BooleanField()
+    retailer = models.ForeignKey(Retailer,on_delete=models.CASCADE)
+    
+    def __str__(self):
+        return self.name
+
+
+
