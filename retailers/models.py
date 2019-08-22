@@ -5,14 +5,14 @@ from django.contrib.gis.db import models
 
 # Create your models here.
 class Retailer(models.Model):
-    image = models.ImageField()
+    image = models.ImageField(blank=True,)
     name = models.CharField(max_length=255)
-    description = models.CharField(max_length = 500)
+    description = models.CharField(blank=True,max_length = 500)
     location = models.PointField()    
-    rating = models.IntegerField()
-    link = models.CharField(max_length = 500)
-    contacts = models.IntegerField()
-    email = models.EmailField()
+    rating = models.IntegerField(blank=True,default=2.5)
+    link = models.CharField(blank=True,max_length = 500)
+    contacts = models.IntegerField(blank=True,)
+    email = models.EmailField(blank=True,)
     
     def __str__(self):
         return self.name
