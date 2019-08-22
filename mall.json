@@ -1,0 +1,6712 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.7 8b86ff77",
+  "osm3s": {
+    "timestamp_osm_base": "2019-08-21T14:39:02Z",
+    "timestamp_areas_base": "2019-08-21T13:32:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 720900802,
+      "lat": -1.314117,
+      "lon": 36.8278143,
+      "tags": {
+        "name": "South C Shopping Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 968588620,
+      "lat": -1.2748707,
+      "lon": 36.7947865,
+      "tags": {
+        "name": "Kasuku Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3336751358,
+      "lat": -1.2327491,
+      "lon": 36.8736659,
+      "tags": {
+        "name": "Mountain Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5221207079,
+      "lat": -1.2841505,
+      "lon": 36.972933,
+      "tags": {
+        "name": "Capital Shopping Mall Utawala",
+        "operator": "Private",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5229947533,
+      "lat": -1.3229764,
+      "lon": 36.8015307,
+      "tags": {
+        "name": "Bethel business centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5339417233,
+      "lat": -1.265417,
+      "lon": 36.8051081,
+      "tags": {
+        "name": "Crossroads Plaza",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5340430490,
+      "lat": -1.2642203,
+      "lon": 36.8006932,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way Service Road",
+        "name": "Viking House",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5340480401,
+      "lat": -1.2389874,
+      "lon": 36.7818917,
+      "tags": {
+        "name": "Spinners Web Kenya Ltd",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5356712865,
+      "lat": -1.307555,
+      "lon": 36.7321945,
+      "tags": {
+        "addr:housenumber": "Lenana Forest Centre, Nairobi",
+        "name": "Sandstorm Africa Ltd",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5356740849,
+      "lat": -1.3168009,
+      "lon": 36.7186486,
+      "tags": {
+        "name": "Carmed Insurance Agency",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5356773899,
+      "lat": -1.3255548,
+      "lon": 36.7184608,
+      "tags": {
+        "addr:housenumber": "Lower Plains Rd, Nairobi",
+        "name": "Blixen Court",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5360926719,
+      "lat": -1.3354516,
+      "lon": 36.7154794,
+      "tags": {
+        "addr:housenumber": "Karen Rd, Nairobi City",
+        "name": "Karen triangle,Terminal 35",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5360926720,
+      "lat": -1.3357982,
+      "lon": 36.7161719,
+      "tags": {
+        "addr:housenumber": "Karen Rd, Nairobi",
+        "name": "Karen CrossRoads Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5371741545,
+      "lat": -1.341721,
+      "lon": 36.762012,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Langata Rd, Nairobi",
+        "addr:street": "Langata Road",
+        "name": "Mbandu Complex",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372373739,
+      "lat": -1.3231343,
+      "lon": 36.7777434,
+      "tags": {
+        "addr:housenumber": "Ojamaa Ojamong Rd, Nairobi City",
+        "name": "Soweto Shopping Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372450540,
+      "lat": -1.309295,
+      "lon": 36.8218879,
+      "tags": {
+        "addr:housenumber": "Muhoho Ave, Nairobi",
+        "name": "Nairobi West Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496079644,
+      "lat": -1.2936825,
+      "lon": 36.8693483,
+      "tags": {
+        "addr:city": "Nairobi",
+        "name": "Makadara Shopping Center",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6141848530,
+      "lat": -1.2821475,
+      "lon": 36.7666552,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "James Gichuru Road",
+        "name": "Althaus Services Limited",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6208028914,
+      "lat": -1.3309401,
+      "lon": 36.8811472,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Old Mombosa Road",
+        "name": "TEAMSMART",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224771753,
+      "lat": -1.3728886,
+      "lon": 36.7211892,
+      "tags": {
+        "addr:city": "Rongai",
+        "addr:street": "Gataka Road",
+        "name": "Upendo",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259798903,
+      "lat": -1.3085503,
+      "lon": 36.9097135,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Embakasi Road",
+        "name": "Season Shopping Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24008202,
+      "nodes": [
+        260340097,
+        260340098,
+        260340099,
+        651295143,
+        260340100,
+        260340102,
+        1734547090,
+        260340103,
+        260340097
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "landuse": "retail",
+        "name": "The Village Market",
+        "shop": "mall",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26772773,
+      "nodes": [
+        293662435,
+        293662360,
+        293662436,
+        293662362,
+        293662437,
+        1102337058,
+        1102337028,
+        293662364,
+        293662435
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Argwings Kodhek Road",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Yaya Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26989467,
+      "nodes": [
+        295827266,
+        295827267,
+        295827268,
+        295827269,
+        295827270,
+        295827271,
+        295827306,
+        295827709,
+        652433140,
+        295827308,
+        295827710,
+        295827310,
+        295827266
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Karuna road",
+        "building": "yes",
+        "name": "Sarit Centre",
+        "shop": "mall",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26989618,
+      "nodes": [
+        295829502,
+        295829503,
+        295829504,
+        295829725,
+        295829506,
+        295829726,
+        295829727,
+        295829728,
+        295829502
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "3rd Parklands Avenue",
+        "building": "yes",
+        "name": "Highridge Shopping Center",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26989734,
+      "nodes": [
+        295831454,
+        295831455,
+        295831456,
+        295831457,
+        295831458,
+        295831459,
+        295831454
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "building": "retail",
+        "name": "ABC Place",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 39886090,
+      "nodes": [
+        478550505,
+        478550510,
+        478550514,
+        478550516,
+        478550519,
+        478550505
+      ],
+      "tags": {
+        "landuse": "retail",
+        "name": "Kenyatta Market",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 94987845,
+      "nodes": [
+        1102330645,
+        1102330672,
+        1102330638,
+        1102330695,
+        1102330724,
+        5354470334,
+        1102330648,
+        1102330615,
+        1102330666,
+        1102330645
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Gitanga Road",
+        "building": "yes",
+        "name": "Valley Arcade",
+        "opening_hours": "09:30-18:00",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 94987854,
+      "nodes": [
+        1102330669,
+        1102330702,
+        5354470328,
+        5354470329,
+        1102330624,
+        1102330708,
+        1102330642,
+        1102330670,
+        1102330728,
+        1102330692,
+        1102330669
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Gitanga Road",
+        "building": "yes",
+        "name": "Valley Arcade",
+        "opening_hours": "09:00-18:00",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 95636755,
+      "nodes": [
+        1108902378,
+        1108902394,
+        1108902315,
+        1108902395,
+        1108902383,
+        1108902354,
+        1108902375,
+        1108902373,
+        1108902350,
+        1108902345,
+        1108902324,
+        1108902376,
+        1108902346,
+        1108902380,
+        1108902326,
+        1108902356,
+        1108902314,
+        1108902360,
+        1108902317,
+        1108902318,
+        1108902359,
+        1108902358,
+        1108902320,
+        1108902387,
+        1108902328,
+        1108902378
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "building": "yes",
+        "name": "Capital Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 95790444,
+      "nodes": [
+        1110247402,
+        1191124770,
+        1110247467,
+        1110247404,
+        1110247475,
+        1110247452,
+        1110247419,
+        1110247402
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "building": "yes",
+        "name": "Prestige Plaza",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 95932150,
+      "nodes": [
+        1111507397,
+        1111507389,
+        1111507387,
+        1111507385,
+        1111507382,
+        1111507318,
+        1111507615,
+        1111507603,
+        1111507593,
+        1111507580,
+        1111507564,
+        1111507558,
+        1111507556,
+        1111507540,
+        1111507397
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "building": "yes",
+        "name": "The Junction Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 96876883,
+      "nodes": [
+        1122520052,
+        1122520068,
+        1122520047,
+        1122520074,
+        1122520071,
+        1122520014,
+        1122520031,
+        1122520035,
+        1122520060,
+        1122520064,
+        1122520045,
+        1122520062,
+        1122520055,
+        1122520040,
+        1122520042,
+        1122520069,
+        3632447388,
+        3632463395,
+        1122520052
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Langata Road",
+        "building": "yes",
+        "name": "Karen CrossRoads Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123242667,
+      "nodes": [
+        1375002068,
+        1375002066,
+        1375002033,
+        1375001890,
+        6574019576,
+        6574019579,
+        6574019578,
+        6574019577,
+        6574019580,
+        6574019583,
+        6574019582,
+        6574019581,
+        1375002068
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Taveta Road",
+        "building": "yes",
+        "name": "Taveta Shopping Mall",
+        "name:it": "Taveta",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123312850,
+      "nodes": [
+        1375585880,
+        1375585847,
+        1375585845,
+        1375585878,
+        1375585880
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "building": "yes",
+        "name": "World Business Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123317724,
+      "nodes": [
+        1375628738,
+        1375628750,
+        1375628731,
+        1375628758,
+        1375628738
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123317727,
+      "nodes": [
+        1375628746,
+        1375628760,
+        6573902596,
+        6573902597,
+        1375628746
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Accra Road",
+        "building": "yes",
+        "name": "New Al Noor",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123317729,
+      "nodes": [
+        1375628748,
+        1375628740,
+        1375628761,
+        1375628759,
+        1375628756,
+        1375628742,
+        1375628748
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Timboroa Lane",
+        "building": "yes",
+        "name": "Midtown Business Plaza",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123350196,
+      "nodes": [
+        1375921198,
+        6573867436,
+        1375921174,
+        6573867435,
+        1375921192,
+        1375921175,
+        1375921198
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "building": "yes",
+        "name": "Sun Beam",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123352670,
+      "nodes": [
+        1375934456,
+        1375934493,
+        6573867475,
+        6573867476,
+        1375934456
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Moi Avenue",
+        "building": "yes",
+        "name": "Giant Mark Shopping Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123362427,
+      "nodes": [
+        6573884398,
+        6573884399,
+        1375977729,
+        1375977719,
+        6573884398
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "building": "yes",
+        "name": "Market Stalls Exihibition",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123416466,
+      "nodes": [
+        1376375762,
+        1376375761,
+        1376375760,
+        1376375763,
+        1376375762
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Tubman Lane",
+        "building": "yes",
+        "name": "Jamia Shopping Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123452832,
+      "nodes": [
+        1376660639,
+        1376660682,
+        1376660574,
+        1376660683,
+        1376660599,
+        1376660627,
+        1376660618,
+        1376660518,
+        1376660519,
+        1376660639
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Keekorok Road",
+        "building": "yes",
+        "name": "Keekorok Shopping Mall",
+        "name:it": "Keekorok",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123698361,
+      "nodes": [
+        1378528986,
+        1378528984,
+        1378529094,
+        1378529088,
+        1378529089,
+        1378529109,
+        1378528986
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mfangano Street",
+        "building": "yes",
+        "name": "Mfangano Trade Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123897389,
+      "nodes": [
+        1380210772,
+        1380210890,
+        1380211195,
+        1380210975,
+        1380210772
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "General Waruingi Street",
+        "building": "yes",
+        "name": "Eastleigh Mall",
+        "shop": "mall",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125142631,
+      "nodes": [
+        1390658895,
+        1390658848,
+        1390658854,
+        1390658773,
+        1390658895
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Globe Roundabout",
+        "building": "yes",
+        "name": "Globe Business Complex",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125300906,
+      "nodes": [
+        1392091541,
+        1392091550,
+        1392091510,
+        1392091531,
+        1392091530,
+        1392091543,
+        1392091515,
+        1392091526,
+        1392091532,
+        1392091549,
+        1392091514,
+        5496786758,
+        1392091541
+      ],
+      "tags": {
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 126926872,
+      "nodes": [
+        1406064006,
+        1406064039,
+        1406064048,
+        1406064013,
+        1406064015,
+        1406063964,
+        1406063997,
+        1406063971,
+        1406064008,
+        1406063950,
+        1406063948,
+        1406063935,
+        1406064011,
+        1406064006
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Landhies Road",
+        "building": "yes",
+        "name": "NACICO PLAZA",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 144112315,
+      "nodes": [
+        1576909839,
+        1576909849,
+        1576909856,
+        1576909851,
+        1576909842,
+        1576909841,
+        1576909839
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Kogo Village Market",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 155306793,
+      "nodes": [
+        6154250425,
+        1677067455,
+        1677067458,
+        1677067450,
+        6208028467,
+        6154250425
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "name": "Sameer Business Park",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 164584978,
+      "nodes": [
+        1762039280,
+        1762039283,
+        2350029776,
+        2350029778,
+        1762039281,
+        1762039278,
+        5360184123,
+        1762039277,
+        1762039282,
+        1762039279,
+        1762039280
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kiambu Road",
+        "name": "Ridgeways Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 165279734,
+      "nodes": [
+        277574443,
+        277574442,
+        277574445,
+        277574444,
+        277574443
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Diamond Plaza",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 197925720,
+      "nodes": [
+        2081210011,
+        2081210010,
+        2081210019,
+        2081210021,
+        2081210011
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kipande Athumani Street",
+        "building": "yes",
+        "name": "Garissa Lodge shopping Mall",
+        "name:it": "Garissa Lodge",
+        "shop": "mall",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 226557297,
+      "nodes": [
+        2353433613,
+        2353433614,
+        6263080639,
+        2353433615,
+        2353433616,
+        6263080640,
+        6263080641,
+        2353433613
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "building": "yes",
+        "name": "Airgate Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 229660823,
+      "nodes": [
+        2382277560,
+        2382277562,
+        2382277564,
+        2382277566,
+        2382277568,
+        2382277570,
+        2382277572,
+        2382277574,
+        2382277576,
+        2382277560
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "United Nations Avenue",
+        "building": "yes",
+        "name": "Warwick Center",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232010704,
+      "nodes": [
+        2403564305,
+        2403564303,
+        2403564309,
+        2403564310,
+        2403564311,
+        2403564312,
+        2403564305
+      ],
+      "tags": {
+        "name": "Loresho Shopping Centre",
+        "opening_hours": "24/7",
+        "operator": "Various",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 235253868,
+      "nodes": [
+        2433371763,
+        2433371766,
+        2433371768,
+        2433371770,
+        2433371773,
+        2433371775,
+        2433371776,
+        2433371778,
+        2433371780,
+        2433371782,
+        2433371783,
+        2433371784,
+        2433371785,
+        2433371786,
+        2433371789,
+        2433371791,
+        2433371793,
+        2433371795,
+        2433371797,
+        2433371799,
+        2433371801,
+        2433371803,
+        2433371805,
+        2433371763
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Muthaiga Road",
+        "building": "yes",
+        "name": "Oil Libya Plaza",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238006646,
+      "nodes": [
+        2458658768,
+        2458658769,
+        2458658770,
+        2536712938,
+        2458658768
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "The Village Market",
+        "noaddress": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238852394,
+      "nodes": [
+        2466520954,
+        2466520955,
+        2466520956,
+        2466520957,
+        2466520958,
+        2466520959,
+        2466520960,
+        2466520961,
+        2466520954
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "15",
+        "addr:street": "Mwanzi Road",
+        "alt_name": "Westgate Mall",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Westgate Shopping Mall",
+        "name:it": "Westgate",
+        "phone": "+254 722 003272",
+        "shop": "mall",
+        "website": "https://www.westgate.co.ke/",
+        "wheelchair": "yes",
+        "wikidata": "Q13125208"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239006904,
+      "nodes": [
+        2468114323,
+        2468114324,
+        2468114325,
+        2468114326,
+        2468114327,
+        2468114328,
+        2468114323
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "building": "yes",
+        "name": "The Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239942308,
+      "nodes": [
+        2477130107,
+        2477130108,
+        2477130109,
+        2477130110,
+        2477130107
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Argwings Kodhek Road",
+        "building": "yes",
+        "name": "Apa Arcade",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246659954,
+      "nodes": [
+        2536682743,
+        2536682740,
+        2536682786,
+        2536682782,
+        2536682743
+      ],
+      "tags": {
+        "building": "retail",
+        "name": "Village Market",
+        "noaddress": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 251203900,
+      "nodes": [
+        2574589051,
+        2574589052,
+        2574589053,
+        2574589054,
+        2574589051
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kilimani Road",
+        "building": "yes",
+        "name": "Applewood Commercial Center",
+        "name:it": "Applewood",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 251203938,
+      "nodes": [
+        2574589507,
+        2574589508,
+        2574589509,
+        2574589510,
+        2574589511,
+        2574589512,
+        2574589513,
+        2574589514,
+        2574589507
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "building": "yes",
+        "building:levels": "6",
+        "name": "Green House Mall",
+        "shop": "mall",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 257153869,
+      "nodes": [
+        2627546534,
+        2627546535,
+        2627546536,
+        2627546537,
+        2627546538,
+        2627546539,
+        2627546540,
+        2627546541,
+        2627546542,
+        2627546543,
+        2627546544,
+        2627546545,
+        2627546546,
+        2627546547,
+        2627546548,
+        2627546549,
+        2627546550,
+        2627546551,
+        2627546552,
+        2627546553,
+        2627546554,
+        2627546555,
+        2627546556,
+        2627546557,
+        2627546558,
+        2627546559,
+        2627546560,
+        2627546561,
+        2627546562,
+        2627546534
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Galleria Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262587911,
+      "nodes": [
+        2682435041,
+        2682435038,
+        2682435046,
+        2682435043,
+        2682435041
+      ],
+      "tags": {
+        "addr:housename": "Krishna Plaza",
+        "addr:housenumber": "SHop No. 3",
+        "addr:street": "3rd Parklands Avenue",
+        "building": "retail",
+        "designation": "Computers Technology Electronics",
+        "name": "Saicom Electronics",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 280717108,
+      "nodes": [
+        2847785813,
+        2847785814,
+        2847785815,
+        2847785816,
+        2847785813
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "New Muthaiga\" shopping center.",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321619732,
+      "nodes": [
+        6168178229,
+        3283729138,
+        6224915440,
+        6224915441,
+        6224915442,
+        6224915437,
+        6224915443,
+        3283729139,
+        6168178230,
+        6168178229
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "building": "yes",
+        "name": "TRM",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326968547,
+      "nodes": [
+        3336751359,
+        3336751360,
+        3336751361,
+        3336751362,
+        3336751363,
+        3336751364,
+        3336751365,
+        3336751366,
+        3336751367,
+        3336751359
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Mountain Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 345274215,
+      "nodes": [
+        3519594898,
+        3519594899,
+        3519594900,
+        3519594901,
+        3519594902,
+        3519594903,
+        3519594904,
+        3519594898
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Langata Road",
+        "building": "yes",
+        "name": "Karen Square",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 361587520,
+      "nodes": [
+        3660408476,
+        3660408477,
+        3660408478,
+        5525760323,
+        3660408476
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Parklands Road",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Mayfair Suites",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 369123393,
+      "nodes": [
+        1111507397,
+        3729400420,
+        3729400421,
+        5421225049,
+        3729400422,
+        1684907374,
+        1111507540,
+        1111507397
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "building": "yes",
+        "name": "The Junction Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426543940,
+      "nodes": [
+        4258334789,
+        5352460798,
+        4258334790,
+        4258334791,
+        4258334792,
+        4258334789
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ring Road Parklands",
+        "building": "yes",
+        "name": "The Oval",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426543941,
+      "nodes": [
+        4258334793,
+        5353042836,
+        5353042834,
+        5369163724,
+        5369163725,
+        5369163726,
+        5369163727,
+        5369163728,
+        5369163729,
+        5369163730,
+        5369163731,
+        5369163732,
+        5369163733,
+        4258334796,
+        5369163734,
+        5429906372,
+        4258334797,
+        5369163735,
+        5369163736,
+        5369163737,
+        5369163738,
+        5369163739,
+        5369163740,
+        4258334793
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Nairobi",
+        "addr:street": "Dagoretti Road",
+        "building": "yes",
+        "name": "The Hub Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 456321428,
+      "nodes": [
+        4525886776,
+        6207546823,
+        6207546822,
+        4525886777,
+        4525886778,
+        4525886779,
+        4525886776
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "building": "yes",
+        "building:levels": "8",
+        "name": "NextGen Shopping Mall",
+        "name:it": "NextGen",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 476219410,
+      "nodes": [
+        4698500832,
+        4698500831,
+        4698500830,
+        4698500829,
+        4698500832
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Ndege Rd, Nairobi",
+        "addr:street": "Ndege Road",
+        "amenity": "public_building",
+        "name": "Watermark Business Park",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 489082824,
+      "nodes": [
+        4813621275,
+        4813621279,
+        5333185686,
+        4813621274,
+        4813621301,
+        4813621288,
+        4813621280,
+        4813621275
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Naushad Merali Drive",
+        "building": "yes",
+        "name": "Lavington Curve",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 493736705,
+      "nodes": [
+        4856144469,
+        4856144470,
+        4856144471,
+        4856144472,
+        4856144473,
+        4856144474,
+        4856144475,
+        4856145031,
+        4856144476,
+        4856144477,
+        4856144478,
+        4856144479,
+        6165780675,
+        4856144480,
+        4856144481,
+        4856145044,
+        4856145046,
+        4856144482,
+        4856144483,
+        4856144484,
+        4856144485,
+        4856145045,
+        4856144486,
+        4856144487,
+        4856144488,
+        4856145005,
+        4856144490,
+        4856144489,
+        4856144469
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Two Rivers Road",
+        "building": "yes",
+        "name": "Two Rivers Mall",
+        "shop": "mall",
+        "website": "https://tworivers.co.ke/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 496842445,
+      "nodes": [
+        4885056697,
+        4885056707,
+        4885056696,
+        4885056674,
+        4885056680,
+        4885056686,
+        4885056697
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Dennis Pritt Road",
+        "building": "yes",
+        "name": "Total Statehouse Service Station",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 538102827,
+      "nodes": [
+        5209259102,
+        5209259103,
+        5209259104,
+        5209259105,
+        5209259106,
+        5209259107,
+        5209259108,
+        5209259109,
+        5209259110,
+        5209259111,
+        5209259112,
+        6247215844,
+        6247215845,
+        5209259113,
+        5209259114,
+        5209259115,
+        5209259116,
+        5209259117,
+        5209259118,
+        5209259119,
+        5209259120,
+        5209259121,
+        5209259122,
+        5209259123,
+        5209259102
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Exit 7,",
+        "addr:street": "Thika Road",
+        "building": "yes",
+        "name": "Garden City Mall",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-16:00",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551713580,
+      "nodes": [
+        5327942865,
+        6191599530,
+        5348815014,
+        5327942866,
+        5327942867,
+        6191599531,
+        6191599532,
+        6191599533,
+        6191599534,
+        5327942865
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kiambu Road",
+        "building": "yes",
+        "name": "Ciata Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551771368,
+      "nodes": [
+        5328467862,
+        6327592123,
+        6327592136,
+        5328467863,
+        5328467864,
+        5328472240,
+        5328467865,
+        5328467866,
+        5328467867,
+        5328472241,
+        6251558915,
+        6251558914,
+        5328467862
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ring Road Parklands",
+        "building": "yes",
+        "name": "Westlands Commercial Centre",
+        "parking": "surface",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553067615,
+      "nodes": [
+        5339112589,
+        5339112590,
+        5339112591,
+        5339112592,
+        5339112589
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Muthangari Green",
+        "building": "yes",
+        "name": "Lavington Green Shopping Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553080445,
+      "nodes": [
+        5339226809,
+        5339226810,
+        5339226811,
+        5339226812,
+        5339226813,
+        5339226814,
+        5339226809
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Nobri (K) Ltd",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553221099,
+      "nodes": [
+        5340458897,
+        5340458898,
+        5340458899,
+        5340458900,
+        5340458897
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "43",
+        "addr:street": "General Mathenge Drive",
+        "building": "yes",
+        "name": "Harmony Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553225597,
+      "nodes": [
+        5340490321,
+        5340490322,
+        5340490323,
+        5340490324,
+        5340490321
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Spring Valley Shopping Centre/Oilibya",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553232281,
+      "nodes": [
+        5340535137,
+        5340535138,
+        5340535139,
+        5340535140,
+        5340535141,
+        5340535137
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "02",
+        "addr:street": "Muthithi Road",
+        "building": "yes",
+        "name": "Shamneel Court",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553277079,
+      "nodes": [
+        5340908748,
+        5340908749,
+        5340908750,
+        5340908751,
+        5340908748
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Sky Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554639549,
+      "nodes": [
+        5352496837,
+        5352496838,
+        5352496839,
+        5352496841,
+        5352496842,
+        5352496840,
+        5352496837
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Gigiri Shopping Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554670292,
+      "nodes": [
+        5352782733,
+        6164049143,
+        6164049142,
+        6164049144,
+        6164049141,
+        5352782740,
+        5352782734,
+        6164049145,
+        6164049146,
+        5738615456,
+        6164049147,
+        6164049148,
+        6164049149,
+        5352782735,
+        6164049150,
+        5738615455,
+        6164049152,
+        6164049151,
+        5352782736,
+        5352782733
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "building": "yes",
+        "name": "Rosslyn Riviera Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 555165922,
+      "nodes": [
+        5356712856,
+        5356712857,
+        5356712860,
+        6135414725,
+        6135414727,
+        5356712858,
+        6135414726,
+        6135414728,
+        5356712859,
+        5356712856
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Along Ngong Road, Lenana, Nairobi",
+        "addr:street": "Ngong Road",
+        "building": "yes",
+        "name": "Mac Naughton Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 555170989,
+      "nodes": [
+        5356744861,
+        5356744862,
+        5356744863,
+        5356744864,
+        5356744865,
+        5356744861
+      ],
+      "tags": {
+        "addr:housenumber": "Karen Rd, Nairobi",
+        "building": "yes",
+        "name": "The Stables Karen",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 555174751,
+      "nodes": [
+        5356773895,
+        5356773896,
+        5356773897,
+        5356773898,
+        5356773895
+      ],
+      "tags": {
+        "addr:housenumber": "Lower Plains Rd, Nairobi",
+        "building": "yes",
+        "name": "Karen Connection Business Park",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 555181685,
+      "nodes": [
+        5356821150,
+        5356821151,
+        5356821152,
+        5356821153,
+        5356821150
+      ],
+      "tags": {
+        "addr:housenumber": "Karen Plains Rd, Nairobi",
+        "building": "yes",
+        "name": "Karen Plains Arcade",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 557016635,
+      "nodes": [
+        5372486939,
+        5372486940,
+        5372486941,
+        5372486942,
+        5372486939
+      ],
+      "tags": {
+        "addr:housenumber": "Gandhi Ave, Nairobi",
+        "building": "yes",
+        "name": "Discount Bazaar",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561265451,
+      "nodes": [
+        5412286017,
+        5412286018,
+        5412286019,
+        5412286020,
+        5412286017
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "building": "yes",
+        "name": "Apex Court",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561265491,
+      "nodes": [
+        5412286211,
+        5412286212,
+        5412286213,
+        5412286214,
+        5412286211
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "building": "yes",
+        "name": "Arcade Discounts Shopping mall",
+        "name:it": "Arcade Discounts",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561265507,
+      "nodes": [
+        5412286537,
+        5412286538,
+        5412286539,
+        5412286540,
+        5412286537
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Lane",
+        "building": "yes",
+        "name": "Royal Square",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561480211,
+      "nodes": [
+        5414008438,
+        5414008439,
+        5474792097,
+        5474792098,
+        5414008440,
+        5414008441,
+        5414008438
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "George Padmore Lane",
+        "building": "yes",
+        "name": "Paresia Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561528013,
+      "nodes": [
+        5414335604,
+        5414335612,
+        5414335605,
+        5414335606,
+        5414335607,
+        5414335604
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Argwings Kodhek Road",
+        "building": "yes",
+        "name": "Remax Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 562752193,
+      "nodes": [
+        5424655280,
+        5424655281,
+        5424655282,
+        5424655283,
+        5424655280
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Dennis Pritt Road",
+        "building": "yes",
+        "name": "Total Statehouse Service Station",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 563570615,
+      "nodes": [
+        5430867397,
+        6172419662,
+        6172419663,
+        5678312228,
+        5678312232,
+        5678312231,
+        5678312230,
+        5678312229,
+        5430867398,
+        5430867399,
+        5430867400,
+        6172419661,
+        5678312227,
+        5430867401,
+        5430867397
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Karen Road",
+        "building": "yes",
+        "name": "The Waterfront Karen",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571753248,
+      "nodes": [
+        5494261901,
+        5494261902,
+        5494261903,
+        5494261904,
+        5494261901
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Sixth Street",
+        "building": "yes",
+        "name": "Al-Arafa Shopping Centre",
+        "name:it": "Al-Arafa",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 572001763,
+      "nodes": [
+        5496079278,
+        5496079279,
+        5496079280,
+        5496079281,
+        5496079278
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Rabai Road",
+        "building": "yes",
+        "name": "The Point Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576008323,
+      "nodes": [
+        5525699023,
+        5525699024,
+        5525699025,
+        5525699026,
+        5525699023
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "11,",
+        "addr:street": "Chiromo Lane",
+        "building": "yes",
+        "name": "Muthithi Place",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577991155,
+      "nodes": [
+        5539579851,
+        5539579852,
+        5539579853,
+        5539579854,
+        5539579851
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Lunga Lunga Road",
+        "building": "yes",
+        "name": "Lunga Lunga Plaza",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579832163,
+      "nodes": [
+        5552257957,
+        5552257958,
+        5552257959,
+        5552257960,
+        5552257957
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Westlands Road",
+        "building": "yes",
+        "name": "Soin Shopping Arcade",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 582332469,
+      "nodes": [
+        5569591198,
+        5569591199,
+        5569591200,
+        5569591201,
+        5569591202,
+        5569591203,
+        5569591204,
+        5569591205,
+        5569591206,
+        5569591207,
+        5569591208,
+        6455396027,
+        5569591198
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Industrial Area,",
+        "addr:street": "Workshop Road",
+        "building": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583707618,
+      "nodes": [
+        5580372099,
+        5580372100,
+        5580372101,
+        5580372102,
+        5580372099
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Uhuru Highway",
+        "building": "yes",
+        "name": "Highwayy Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583761971,
+      "nodes": [
+        5580938692,
+        5580938693,
+        5580938694,
+        5580938695,
+        5580938692
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "building": "yes",
+        "name": "Mountain View Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654761041,
+      "nodes": [
+        6135452342,
+        6135452343,
+        6135452344,
+        6135452345,
+        6135452342
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Karen Road",
+        "building": "yes",
+        "name": "One Stop Arcade Karen",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658651306,
+      "nodes": [
+        6167498860,
+        6167498861,
+        6167498862,
+        6167498863,
+        6167498860
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "building": "yes",
+        "name": "Forest View Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658902908,
+      "nodes": [
+        6169231009,
+        6169231010,
+        6169231011,
+        6169231012,
+        6169231013,
+        6169231014,
+        6169231015,
+        6169231016,
+        6169231017,
+        6169231018,
+        6169231019,
+        6169231020,
+        6169231021,
+        6169231022,
+        6169231023,
+        6169231024,
+        6169231025,
+        6169231026,
+        6169231027,
+        6169231028,
+        6169231029,
+        6169231009
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "K-Mall Komarock",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 663223937,
+      "nodes": [
+        6208216876,
+        6208216877,
+        6208216878,
+        6208216879,
+        6208216876
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:postcode": "P.O.Box 18628-00500, Nairobi, Kenya,",
+        "addr:street": "Airport North Road",
+        "building": "yes",
+        "name": "Southfield Mall",
+        "opening_hours": "Mo-Su 07:30-22:00",
+        "shop": "mall",
+        "website": "http://www.southfieldmall.co.ke/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 663223993,
+      "nodes": [
+        6208217657,
+        6208217658,
+        6208217659,
+        6208217660,
+        6208217657
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "building": "yes",
+        "name": "Agrosolutions Ltd. Nairobi, Kenya",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664564189,
+      "nodes": [
+        6220298648,
+        6220298649,
+        6220298650,
+        6220298651,
+        6220298648
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kiambu Road",
+        "building": "yes",
+        "name": "Ciata Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6208217657,
+      "lat": -1.348995,
+      "lon": 36.9023383
+    },
+    {
+      "type": "node",
+      "id": 6208217658,
+      "lat": -1.349444,
+      "lon": 36.9025435
+    },
+    {
+      "type": "node",
+      "id": 6208217660,
+      "lat": -1.3484075,
+      "lon": 36.903174
+    },
+    {
+      "type": "node",
+      "id": 6208217659,
+      "lat": -1.3487361,
+      "lon": 36.9034748
+    },
+    {
+      "type": "node",
+      "id": 4698500829,
+      "lat": -1.3369029,
+      "lon": 36.7243177
+    },
+    {
+      "type": "node",
+      "id": 4698500830,
+      "lat": -1.3389086,
+      "lon": 36.7244089
+    },
+    {
+      "type": "node",
+      "id": 4698500831,
+      "lat": -1.3391419,
+      "lon": 36.7228398
+    },
+    {
+      "type": "node",
+      "id": 4698500832,
+      "lat": -1.336683,
+      "lon": 36.7226762
+    },
+    {
+      "type": "node",
+      "id": 4258334793,
+      "lat": -1.3205854,
+      "lon": 36.7042637
+    },
+    {
+      "type": "node",
+      "id": 5353042834,
+      "lat": -1.3214659,
+      "lon": 36.70363
+    },
+    {
+      "type": "node",
+      "id": 5353042836,
+      "lat": -1.3209272,
+      "lon": 36.7044768
+    },
+    {
+      "type": "node",
+      "id": 5369163724,
+      "lat": -1.3208384,
+      "lon": 36.7032423
+    },
+    {
+      "type": "node",
+      "id": 5369163725,
+      "lat": -1.3207284,
+      "lon": 36.7034224
+    },
+    {
+      "type": "node",
+      "id": 1122520014,
+      "lat": -1.3237765,
+      "lon": 36.707967
+    },
+    {
+      "type": "node",
+      "id": 1122520031,
+      "lat": -1.3238202,
+      "lon": 36.7079666
+    },
+    {
+      "type": "node",
+      "id": 1122520035,
+      "lat": -1.3238219,
+      "lon": 36.7081373
+    },
+    {
+      "type": "node",
+      "id": 1122520040,
+      "lat": -1.3242085,
+      "lon": 36.7074582
+    },
+    {
+      "type": "node",
+      "id": 1122520042,
+      "lat": -1.3240466,
+      "lon": 36.7074598
+    },
+    {
+      "type": "node",
+      "id": 1122520045,
+      "lat": -1.3241778,
+      "lon": 36.708205
+    },
+    {
+      "type": "node",
+      "id": 1122520047,
+      "lat": -1.323599,
+      "lon": 36.7080013
+    },
+    {
+      "type": "node",
+      "id": 1122520052,
+      "lat": -1.3235246,
+      "lon": 36.7076318
+    },
+    {
+      "type": "node",
+      "id": 1122520055,
+      "lat": -1.3242106,
+      "lon": 36.7076747
+    },
+    {
+      "type": "node",
+      "id": 1122520060,
+      "lat": -1.3239585,
+      "lon": 36.708136
+    },
+    {
+      "type": "node",
+      "id": 1122520062,
+      "lat": -1.3241727,
+      "lon": 36.707675
+    },
+    {
+      "type": "node",
+      "id": 1122520064,
+      "lat": -1.3239592,
+      "lon": 36.7082071
+    },
+    {
+      "type": "node",
+      "id": 1122520068,
+      "lat": -1.3235282,
+      "lon": 36.7080019
+    },
+    {
+      "type": "node",
+      "id": 1122520069,
+      "lat": -1.3240482,
+      "lon": 36.7076267
+    },
+    {
+      "type": "node",
+      "id": 1122520071,
+      "lat": -1.3237774,
+      "lon": 36.7080537
+    },
+    {
+      "type": "node",
+      "id": 1122520074,
+      "lat": -1.3235995,
+      "lon": 36.7080554
+    },
+    {
+      "type": "node",
+      "id": 3519594898,
+      "lat": -1.3228206,
+      "lon": 36.7072496
+    },
+    {
+      "type": "node",
+      "id": 3519594899,
+      "lat": -1.3228782,
+      "lon": 36.7072965
+    },
+    {
+      "type": "node",
+      "id": 3519594900,
+      "lat": -1.3229359,
+      "lon": 36.7072804
+    },
+    {
+      "type": "node",
+      "id": 3519594901,
+      "lat": -1.322948,
+      "lon": 36.7072227
+    },
+    {
+      "type": "node",
+      "id": 3519594902,
+      "lat": -1.3230793,
+      "lon": 36.7072321
+    },
+    {
+      "type": "node",
+      "id": 3519594903,
+      "lat": -1.3229895,
+      "lon": 36.7075848
+    },
+    {
+      "type": "node",
+      "id": 3519594904,
+      "lat": -1.3227267,
+      "lon": 36.7073609
+    },
+    {
+      "type": "node",
+      "id": 3632447388,
+      "lat": -1.3240156,
+      "lon": 36.707627
+    },
+    {
+      "type": "node",
+      "id": 3632463395,
+      "lat": -1.323651,
+      "lon": 36.7076306
+    },
+    {
+      "type": "node",
+      "id": 5356821150,
+      "lat": -1.3290342,
+      "lon": 36.7197141
+    },
+    {
+      "type": "node",
+      "id": 5356821151,
+      "lat": -1.3297748,
+      "lon": 36.7196267
+    },
+    {
+      "type": "node",
+      "id": 5430867397,
+      "lat": -1.3295473,
+      "lon": 36.7139974
+    },
+    {
+      "type": "node",
+      "id": 5430867398,
+      "lat": -1.3293845,
+      "lon": 36.7156643
+    },
+    {
+      "type": "node",
+      "id": 5430867399,
+      "lat": -1.3294031,
+      "lon": 36.7157901
+    },
+    {
+      "type": "node",
+      "id": 5430867400,
+      "lat": -1.3299099,
+      "lon": 36.7157151
+    },
+    {
+      "type": "node",
+      "id": 5430867401,
+      "lat": -1.330448,
+      "lon": 36.7147436
+    },
+    {
+      "type": "node",
+      "id": 5678312227,
+      "lat": -1.329923,
+      "lon": 36.7153777
+    },
+    {
+      "type": "node",
+      "id": 5678312228,
+      "lat": -1.3290022,
+      "lon": 36.7142986
+    },
+    {
+      "type": "node",
+      "id": 5678312229,
+      "lat": -1.3295159,
+      "lon": 36.7151887
+    },
+    {
+      "type": "node",
+      "id": 5678312230,
+      "lat": -1.3296524,
+      "lon": 36.7150239
+    },
+    {
+      "type": "node",
+      "id": 5678312231,
+      "lat": -1.3292546,
+      "lon": 36.7146944
+    },
+    {
+      "type": "node",
+      "id": 5678312232,
+      "lat": -1.3293463,
+      "lon": 36.7145836
+    },
+    {
+      "type": "node",
+      "id": 6172419661,
+      "lat": -1.3298799,
+      "lon": 36.7155123
+    },
+    {
+      "type": "node",
+      "id": 6172419662,
+      "lat": -1.329315,
+      "lon": 36.7142778
+    },
+    {
+      "type": "node",
+      "id": 6172419663,
+      "lat": -1.3291396,
+      "lon": 36.7141326
+    },
+    {
+      "type": "node",
+      "id": 5356821152,
+      "lat": -1.3298668,
+      "lon": 36.7200913
+    },
+    {
+      "type": "node",
+      "id": 5356821153,
+      "lat": -1.329094,
+      "lon": 36.720188
+    },
+    {
+      "type": "node",
+      "id": 5356744861,
+      "lat": -1.321226,
+      "lon": 36.717777
+    },
+    {
+      "type": "node",
+      "id": 5356744862,
+      "lat": -1.321174,
+      "lon": 36.7178969
+    },
+    {
+      "type": "node",
+      "id": 5356744863,
+      "lat": -1.3215297,
+      "lon": 36.7179049
+    },
+    {
+      "type": "node",
+      "id": 5356744864,
+      "lat": -1.3216017,
+      "lon": 36.717745
+    },
+    {
+      "type": "node",
+      "id": 5356744865,
+      "lat": -1.3213139,
+      "lon": 36.7175811
+    },
+    {
+      "type": "node",
+      "id": 5356773895,
+      "lat": -1.3259655,
+      "lon": 36.7183899
+    },
+    {
+      "type": "node",
+      "id": 5356773896,
+      "lat": -1.3264093,
+      "lon": 36.7183144
+    },
+    {
+      "type": "node",
+      "id": 5356773897,
+      "lat": -1.3263857,
+      "lon": 36.7179886
+    },
+    {
+      "type": "node",
+      "id": 5356773898,
+      "lat": -1.3259136,
+      "lon": 36.7180547
+    },
+    {
+      "type": "node",
+      "id": 6135452342,
+      "lat": -1.3223005,
+      "lon": 36.7174719
+    },
+    {
+      "type": "node",
+      "id": 6135452343,
+      "lat": -1.3227038,
+      "lon": 36.717642
+    },
+    {
+      "type": "node",
+      "id": 6135452344,
+      "lat": -1.3227211,
+      "lon": 36.7177803
+    },
+    {
+      "type": "node",
+      "id": 6135452345,
+      "lat": -1.3221737,
+      "lon": 36.7178812
+    },
+    {
+      "type": "node",
+      "id": 4258334796,
+      "lat": -1.3196245,
+      "lon": 36.7037807
+    },
+    {
+      "type": "node",
+      "id": 4258334797,
+      "lat": -1.3197297,
+      "lon": 36.7042571
+    },
+    {
+      "type": "node",
+      "id": 5369163726,
+      "lat": -1.3203794,
+      "lon": 36.7031966
+    },
+    {
+      "type": "node",
+      "id": 5369163727,
+      "lat": -1.3203259,
+      "lon": 36.7032886
+    },
+    {
+      "type": "node",
+      "id": 5369163728,
+      "lat": -1.3201464,
+      "lon": 36.7031675
+    },
+    {
+      "type": "node",
+      "id": 5369163729,
+      "lat": -1.3200982,
+      "lon": 36.7032424
+    },
+    {
+      "type": "node",
+      "id": 5369163730,
+      "lat": -1.3199813,
+      "lon": 36.7031719
+    },
+    {
+      "type": "node",
+      "id": 5369163731,
+      "lat": -1.3199926,
+      "lon": 36.70314
+    },
+    {
+      "type": "node",
+      "id": 5369163732,
+      "lat": -1.3197579,
+      "lon": 36.7029724
+    },
+    {
+      "type": "node",
+      "id": 5369163733,
+      "lat": -1.3193625,
+      "lon": 36.7035974
+    },
+    {
+      "type": "node",
+      "id": 5369163734,
+      "lat": -1.3194461,
+      "lon": 36.7040756
+    },
+    {
+      "type": "node",
+      "id": 5369163735,
+      "lat": -1.3197682,
+      "lon": 36.7041843
+    },
+    {
+      "type": "node",
+      "id": 5369163736,
+      "lat": -1.3198214,
+      "lon": 36.7042225
+    },
+    {
+      "type": "node",
+      "id": 5369163737,
+      "lat": -1.3197949,
+      "lon": 36.7042913
+    },
+    {
+      "type": "node",
+      "id": 5369163738,
+      "lat": -1.3201315,
+      "lon": 36.7045195
+    },
+    {
+      "type": "node",
+      "id": 5369163739,
+      "lat": -1.3202613,
+      "lon": 36.7042521
+    },
+    {
+      "type": "node",
+      "id": 5369163740,
+      "lat": -1.320485,
+      "lon": 36.7044063
+    },
+    {
+      "type": "node",
+      "id": 5429906372,
+      "lat": -1.3195854,
+      "lon": 36.7041648
+    },
+    {
+      "type": "node",
+      "id": 5356712856,
+      "lat": -1.3077079,
+      "lon": 36.7321872
+    },
+    {
+      "type": "node",
+      "id": 5356712857,
+      "lat": -1.3078044,
+      "lon": 36.7322207
+    },
+    {
+      "type": "node",
+      "id": 5356712859,
+      "lat": -1.3075284,
+      "lon": 36.7327844
+    },
+    {
+      "type": "node",
+      "id": 5356712860,
+      "lat": -1.3078395,
+      "lon": 36.7322455
+    },
+    {
+      "type": "node",
+      "id": 6135414725,
+      "lat": -1.3076688,
+      "lon": 36.7327356
+    },
+    {
+      "type": "node",
+      "id": 6135414726,
+      "lat": -1.3077443,
+      "lon": 36.7329078
+    },
+    {
+      "type": "node",
+      "id": 6135414727,
+      "lat": -1.3080279,
+      "lon": 36.7328478
+    },
+    {
+      "type": "node",
+      "id": 6135414728,
+      "lat": -1.3075193,
+      "lon": 36.7328273
+    },
+    {
+      "type": "node",
+      "id": 5356712858,
+      "lat": -1.3079896,
+      "lon": 36.7329746
+    },
+    {
+      "type": "node",
+      "id": 6167498860,
+      "lat": -1.3067798,
+      "lon": 36.7355389
+    },
+    {
+      "type": "node",
+      "id": 6167498861,
+      "lat": -1.307282,
+      "lon": 36.7354922
+    },
+    {
+      "type": "node",
+      "id": 6167498862,
+      "lat": -1.307243,
+      "lon": 36.7357492
+    },
+    {
+      "type": "node",
+      "id": 6167498863,
+      "lat": -1.3067642,
+      "lon": 36.7357375
+    },
+    {
+      "type": "node",
+      "id": 2627546534,
+      "lat": -1.3432364,
+      "lon": 36.7655279
+    },
+    {
+      "type": "node",
+      "id": 2627546535,
+      "lat": -1.3434298,
+      "lon": 36.7654986
+    },
+    {
+      "type": "node",
+      "id": 2627546536,
+      "lat": -1.3434579,
+      "lon": 36.7656844
+    },
+    {
+      "type": "node",
+      "id": 2627546542,
+      "lat": -1.3438928,
+      "lon": 36.7656748
+    },
+    {
+      "type": "node",
+      "id": 2627546543,
+      "lat": -1.3440121,
+      "lon": 36.7656568
+    },
+    {
+      "type": "node",
+      "id": 2627546544,
+      "lat": -1.3438056,
+      "lon": 36.7642892
+    },
+    {
+      "type": "node",
+      "id": 2627546545,
+      "lat": -1.3437398,
+      "lon": 36.7642991
+    },
+    {
+      "type": "node",
+      "id": 2627546546,
+      "lat": -1.343697,
+      "lon": 36.7640153
+    },
+    {
+      "type": "node",
+      "id": 2627546547,
+      "lat": -1.3435513,
+      "lon": 36.7640373
+    },
+    {
+      "type": "node",
+      "id": 2627546548,
+      "lat": -1.3435466,
+      "lon": 36.764006
+    },
+    {
+      "type": "node",
+      "id": 2627546549,
+      "lat": -1.3434312,
+      "lon": 36.7640235
+    },
+    {
+      "type": "node",
+      "id": 2627546550,
+      "lat": -1.3432827,
+      "lon": 36.7640459
+    },
+    {
+      "type": "node",
+      "id": 2627546551,
+      "lat": -1.3432942,
+      "lon": 36.7641218
+    },
+    {
+      "type": "node",
+      "id": 2627546552,
+      "lat": -1.343175,
+      "lon": 36.7641398
+    },
+    {
+      "type": "node",
+      "id": 2627546553,
+      "lat": -1.3432404,
+      "lon": 36.7645733
+    },
+    {
+      "type": "node",
+      "id": 2627546554,
+      "lat": -1.3433574,
+      "lon": 36.7645556
+    },
+    {
+      "type": "node",
+      "id": 2627546555,
+      "lat": -1.3433773,
+      "lon": 36.764687
+    },
+    {
+      "type": "node",
+      "id": 2627546556,
+      "lat": -1.3433047,
+      "lon": 36.7646979
+    },
+    {
+      "type": "node",
+      "id": 2627546557,
+      "lat": -1.3433281,
+      "lon": 36.764853
+    },
+    {
+      "type": "node",
+      "id": 2627546558,
+      "lat": -1.3434087,
+      "lon": 36.7648408
+    },
+    {
+      "type": "node",
+      "id": 2627546559,
+      "lat": -1.3434274,
+      "lon": 36.7649647
+    },
+    {
+      "type": "node",
+      "id": 2627546560,
+      "lat": -1.3432885,
+      "lon": 36.7649857
+    },
+    {
+      "type": "node",
+      "id": 2627546561,
+      "lat": -1.3433201,
+      "lon": 36.7651951
+    },
+    {
+      "type": "node",
+      "id": 2627546562,
+      "lat": -1.3431892,
+      "lon": 36.7652149
+    },
+    {
+      "type": "node",
+      "id": 2627546537,
+      "lat": -1.3433073,
+      "lon": 36.7657072
+    },
+    {
+      "type": "node",
+      "id": 2627546538,
+      "lat": -1.3433525,
+      "lon": 36.7660065
+    },
+    {
+      "type": "node",
+      "id": 2627546539,
+      "lat": -1.343682,
+      "lon": 36.7659567
+    },
+    {
+      "type": "node",
+      "id": 2627546540,
+      "lat": -1.3436662,
+      "lon": 36.7658517
+    },
+    {
+      "type": "node",
+      "id": 2627546541,
+      "lat": -1.3439139,
+      "lon": 36.7658143
+    },
+    {
+      "type": "node",
+      "id": 1111507318,
+      "lat": -1.2978372,
+      "lon": 36.7634646
+    },
+    {
+      "type": "node",
+      "id": 1111507382,
+      "lat": -1.297693,
+      "lon": 36.7627611
+    },
+    {
+      "type": "node",
+      "id": 1111507385,
+      "lat": -1.2978713,
+      "lon": 36.7627245
+    },
+    {
+      "type": "node",
+      "id": 1111507387,
+      "lat": -1.2978358,
+      "lon": 36.7625511
+    },
+    {
+      "type": "node",
+      "id": 1111507389,
+      "lat": -1.297662,
+      "lon": 36.7625867
+    },
+    {
+      "type": "node",
+      "id": 1111507397,
+      "lat": -1.2975533,
+      "lon": 36.7620566
+    },
+    {
+      "type": "node",
+      "id": 1111507540,
+      "lat": -1.2982371,
+      "lon": 36.7619164
+    },
+    {
+      "type": "node",
+      "id": 1111507556,
+      "lat": -1.2982731,
+      "lon": 36.762092
+    },
+    {
+      "type": "node",
+      "id": 1111507558,
+      "lat": -1.2981797,
+      "lon": 36.7621111
+    },
+    {
+      "type": "node",
+      "id": 1111507564,
+      "lat": -1.2982119,
+      "lon": 36.7622685
+    },
+    {
+      "type": "node",
+      "id": 1111507580,
+      "lat": -1.2981557,
+      "lon": 36.76228
+    },
+    {
+      "type": "node",
+      "id": 1111507593,
+      "lat": -1.2982643,
+      "lon": 36.7628097
+    },
+    {
+      "type": "node",
+      "id": 1111507603,
+      "lat": -1.2984421,
+      "lon": 36.7627732
+    },
+    {
+      "type": "node",
+      "id": 1111507615,
+      "lat": -1.2985537,
+      "lon": 36.7633177
+    },
+    {
+      "type": "node",
+      "id": 1684907374,
+      "lat": -1.2982478,
+      "lon": 36.7619145
+    },
+    {
+      "type": "node",
+      "id": 3729400420,
+      "lat": -1.2974508,
+      "lon": 36.7615671
+    },
+    {
+      "type": "node",
+      "id": 3729400421,
+      "lat": -1.2985401,
+      "lon": 36.7615102
+    },
+    {
+      "type": "node",
+      "id": 3729400422,
+      "lat": -1.2986778,
+      "lon": 36.7618328
+    },
+    {
+      "type": "node",
+      "id": 5421225049,
+      "lat": -1.2986244,
+      "lon": 36.7615609
+    },
+    {
+      "type": "node",
+      "id": 5412286017,
+      "lat": -1.2997091,
+      "lon": 36.7759554
+    },
+    {
+      "type": "node",
+      "id": 5412286018,
+      "lat": -1.2999601,
+      "lon": 36.7759688
+    },
+    {
+      "type": "node",
+      "id": 5412286019,
+      "lat": -1.2999802,
+      "lon": 36.7763069
+    },
+    {
+      "type": "node",
+      "id": 5412286020,
+      "lat": -1.2997024,
+      "lon": 36.7763136
+    },
+    {
+      "type": "node",
+      "id": 2574589514,
+      "lat": -1.3008994,
+      "lon": 36.781372
+    },
+    {
+      "type": "node",
+      "id": 1110247419,
+      "lat": -1.3012552,
+      "lon": 36.7867443
+    },
+    {
+      "type": "node",
+      "id": 1110247452,
+      "lat": -1.3012124,
+      "lon": 36.7874179
+    },
+    {
+      "type": "node",
+      "id": 2574589051,
+      "lat": -1.2989094,
+      "lon": 36.7807996
+    },
+    {
+      "type": "node",
+      "id": 2574589052,
+      "lat": -1.2989,
+      "lon": 36.7811035
+    },
+    {
+      "type": "node",
+      "id": 2574589053,
+      "lat": -1.2995872,
+      "lon": 36.7811248
+    },
+    {
+      "type": "node",
+      "id": 2574589054,
+      "lat": -1.2995967,
+      "lon": 36.780821
+    },
+    {
+      "type": "node",
+      "id": 2574589507,
+      "lat": -1.3002533,
+      "lon": 36.7813578
+    },
+    {
+      "type": "node",
+      "id": 2574589508,
+      "lat": -1.3002461,
+      "lon": 36.7815203
+    },
+    {
+      "type": "node",
+      "id": 2574589509,
+      "lat": -1.3002436,
+      "lon": 36.7816883
+    },
+    {
+      "type": "node",
+      "id": 2574589510,
+      "lat": -1.3002254,
+      "lon": 36.7818539
+    },
+    {
+      "type": "node",
+      "id": 2574589511,
+      "lat": -1.3002234,
+      "lon": 36.7821126
+    },
+    {
+      "type": "node",
+      "id": 2574589512,
+      "lat": -1.3003555,
+      "lon": 36.7821144
+    },
+    {
+      "type": "node",
+      "id": 2574589513,
+      "lat": -1.3008747,
+      "lon": 36.7821313
+    },
+    {
+      "type": "node",
+      "id": 5412286211,
+      "lat": -1.3002948,
+      "lon": 36.782758
+    },
+    {
+      "type": "node",
+      "id": 5412286212,
+      "lat": -1.300491,
+      "lon": 36.7827695
+    },
+    {
+      "type": "node",
+      "id": 5412286213,
+      "lat": -1.3004794,
+      "lon": 36.7832234
+    },
+    {
+      "type": "node",
+      "id": 5412286214,
+      "lat": -1.3002526,
+      "lon": 36.7831888
+    },
+    {
+      "type": "node",
+      "id": 5412286537,
+      "lat": -1.3004119,
+      "lon": 36.7844282
+    },
+    {
+      "type": "node",
+      "id": 5412286538,
+      "lat": -1.3006694,
+      "lon": 36.7844367
+    },
+    {
+      "type": "node",
+      "id": 5412286539,
+      "lat": -1.3006595,
+      "lon": 36.7847359
+    },
+    {
+      "type": "node",
+      "id": 5412286540,
+      "lat": -1.300402,
+      "lon": 36.7847274
+    },
+    {
+      "type": "node",
+      "id": 1110247402,
+      "lat": -1.3001356,
+      "lon": 36.7866732
+    },
+    {
+      "type": "node",
+      "id": 1110247404,
+      "lat": -1.3005964,
+      "lon": 36.7869106
+    },
+    {
+      "type": "node",
+      "id": 1110247467,
+      "lat": -1.3001224,
+      "lon": 36.7868805
+    },
+    {
+      "type": "node",
+      "id": 1110247475,
+      "lat": -1.3005668,
+      "lon": 36.7873769
+    },
+    {
+      "type": "node",
+      "id": 1191124770,
+      "lat": -1.3001311,
+      "lon": 36.7867435
+    },
+    {
+      "type": "node",
+      "id": 5414008438,
+      "lat": -1.2990879,
+      "lon": 36.7902428
+    },
+    {
+      "type": "node",
+      "id": 5414008439,
+      "lat": -1.2991907,
+      "lon": 36.7902499
+    },
+    {
+      "type": "node",
+      "id": 5414008440,
+      "lat": -1.2992244,
+      "lon": 36.7906282
+    },
+    {
+      "type": "node",
+      "id": 5414008441,
+      "lat": -1.299062,
+      "lon": 36.7906169
+    },
+    {
+      "type": "node",
+      "id": 5474792097,
+      "lat": -1.2991722,
+      "lon": 36.790516
+    },
+    {
+      "type": "node",
+      "id": 5474792098,
+      "lat": -1.2992319,
+      "lon": 36.7905201
+    },
+    {
+      "type": "node",
+      "id": 478550505,
+      "lat": -1.3062117,
+      "lon": 36.8011664
+    },
+    {
+      "type": "node",
+      "id": 478550510,
+      "lat": -1.3068934,
+      "lon": 36.8010937
+    },
+    {
+      "type": "node",
+      "id": 478550514,
+      "lat": -1.3072913,
+      "lon": 36.8015527
+    },
+    {
+      "type": "node",
+      "id": 478550516,
+      "lat": -1.3066481,
+      "lon": 36.8020021
+    },
+    {
+      "type": "node",
+      "id": 478550519,
+      "lat": -1.3062178,
+      "lon": 36.8014505
+    },
+    {
+      "type": "node",
+      "id": 2477130107,
+      "lat": -1.2947397,
+      "lon": 36.7999087
+    },
+    {
+      "type": "node",
+      "id": 2477130108,
+      "lat": -1.2948761,
+      "lon": 36.7998735
+    },
+    {
+      "type": "node",
+      "id": 2477130109,
+      "lat": -1.2946351,
+      "lon": 36.7989397
+    },
+    {
+      "type": "node",
+      "id": 2477130110,
+      "lat": -1.2944988,
+      "lon": 36.7989749
+    },
+    {
+      "type": "node",
+      "id": 5580938692,
+      "lat": -1.2651992,
+      "lon": 36.7404191
+    },
+    {
+      "type": "node",
+      "id": 5580938693,
+      "lat": -1.2651459,
+      "lon": 36.741056
+    },
+    {
+      "type": "node",
+      "id": 5580938694,
+      "lat": -1.265425,
+      "lon": 36.7410586
+    },
+    {
+      "type": "node",
+      "id": 5580938695,
+      "lat": -1.2654376,
+      "lon": 36.7404495
+    },
+    {
+      "type": "node",
+      "id": 1102330615,
+      "lat": -1.290878,
+      "lon": 36.7702374
+    },
+    {
+      "type": "node",
+      "id": 1102330624,
+      "lat": -1.2908587,
+      "lon": 36.7700304
+    },
+    {
+      "type": "node",
+      "id": 1102330638,
+      "lat": -1.290823,
+      "lon": 36.7703916
+    },
+    {
+      "type": "node",
+      "id": 1102330642,
+      "lat": -1.2909345,
+      "lon": 36.7700443
+    },
+    {
+      "type": "node",
+      "id": 1102330645,
+      "lat": -1.2906145,
+      "lon": 36.7702815
+    },
+    {
+      "type": "node",
+      "id": 1102330648,
+      "lat": -1.2909425,
+      "lon": 36.7702358
+    },
+    {
+      "type": "node",
+      "id": 1102330666,
+      "lat": -1.2908779,
+      "lon": 36.7702725
+    },
+    {
+      "type": "node",
+      "id": 1102330669,
+      "lat": -1.2905975,
+      "lon": 36.7698723
+    },
+    {
+      "type": "node",
+      "id": 1102330670,
+      "lat": -1.2909372,
+      "lon": 36.7699875
+    },
+    {
+      "type": "node",
+      "id": 1102330672,
+      "lat": -1.2906191,
+      "lon": 36.7704038
+    },
+    {
+      "type": "node",
+      "id": 1102330692,
+      "lat": -1.2909038,
+      "lon": 36.7698589
+    },
+    {
+      "type": "node",
+      "id": 1102330695,
+      "lat": -1.2908721,
+      "lon": 36.7703914
+    },
+    {
+      "type": "node",
+      "id": 1102330702,
+      "lat": -1.2906053,
+      "lon": 36.7700233
+    },
+    {
+      "type": "node",
+      "id": 1102330708,
+      "lat": -1.2908593,
+      "lon": 36.7700463
+    },
+    {
+      "type": "node",
+      "id": 1102330724,
+      "lat": -1.2909534,
+      "lon": 36.7703903
+    },
+    {
+      "type": "node",
+      "id": 1102330728,
+      "lat": -1.2909321,
+      "lon": 36.7698589
+    },
+    {
+      "type": "node",
+      "id": 5354470328,
+      "lat": -1.2907676,
+      "lon": 36.7700148
+    },
+    {
+      "type": "node",
+      "id": 5354470329,
+      "lat": -1.2908567,
+      "lon": 36.7700105
+    },
+    {
+      "type": "node",
+      "id": 5354470334,
+      "lat": -1.2909513,
+      "lon": 36.7703426
+    },
+    {
+      "type": "node",
+      "id": 4813621274,
+      "lat": -1.278476,
+      "lon": 36.770001
+    },
+    {
+      "type": "node",
+      "id": 4813621275,
+      "lat": -1.2780524,
+      "lon": 36.7692795
+    },
+    {
+      "type": "node",
+      "id": 4813621279,
+      "lat": -1.2783329,
+      "lon": 36.7698415
+    },
+    {
+      "type": "node",
+      "id": 4813621280,
+      "lat": -1.2782133,
+      "lon": 36.7691776
+    },
+    {
+      "type": "node",
+      "id": 4813621288,
+      "lat": -1.2786557,
+      "lon": 36.7698991
+    },
+    {
+      "type": "node",
+      "id": 4813621301,
+      "lat": -1.2785138,
+      "lon": 36.7699796
+    },
+    {
+      "type": "node",
+      "id": 5333185686,
+      "lat": -1.2783486,
+      "lon": 36.7699723
+    },
+    {
+      "type": "node",
+      "id": 5339112589,
+      "lat": -1.2797129,
+      "lon": 36.7697534
+    },
+    {
+      "type": "node",
+      "id": 5339112590,
+      "lat": -1.2798653,
+      "lon": 36.7696262
+    },
+    {
+      "type": "node",
+      "id": 5339112591,
+      "lat": -1.2803806,
+      "lon": 36.7702301
+    },
+    {
+      "type": "node",
+      "id": 5339112592,
+      "lat": -1.2801143,
+      "lon": 36.7704233
+    },
+    {
+      "type": "node",
+      "id": 293662360,
+      "lat": -1.2929378,
+      "lon": 36.7874854
+    },
+    {
+      "type": "node",
+      "id": 293662362,
+      "lat": -1.2926047,
+      "lon": 36.7882579
+    },
+    {
+      "type": "node",
+      "id": 293662364,
+      "lat": -1.2934521,
+      "lon": 36.7878084
+    },
+    {
+      "type": "node",
+      "id": 293662435,
+      "lat": -1.2934879,
+      "lon": 36.7875681
+    },
+    {
+      "type": "node",
+      "id": 293662436,
+      "lat": -1.2926733,
+      "lon": 36.7877096
+    },
+    {
+      "type": "node",
+      "id": 293662437,
+      "lat": -1.2928845,
+      "lon": 36.7882965
+    },
+    {
+      "type": "node",
+      "id": 1102337028,
+      "lat": -1.2932706,
+      "lon": 36.7877737
+    },
+    {
+      "type": "node",
+      "id": 1102337058,
+      "lat": -1.2929176,
+      "lon": 36.7881105
+    },
+    {
+      "type": "node",
+      "id": 5414335604,
+      "lat": -1.2926181,
+      "lon": 36.7921044
+    },
+    {
+      "type": "node",
+      "id": 5414335605,
+      "lat": -1.2931189,
+      "lon": 36.7921774
+    },
+    {
+      "type": "node",
+      "id": 5414335606,
+      "lat": -1.2932311,
+      "lon": 36.7926053
+    },
+    {
+      "type": "node",
+      "id": 5414335607,
+      "lat": -1.2926364,
+      "lon": 36.792527
+    },
+    {
+      "type": "node",
+      "id": 5414335612,
+      "lat": -1.2930381,
+      "lon": 36.7921605
+    },
+    {
+      "type": "node",
+      "id": 4885056674,
+      "lat": -1.286365,
+      "lon": 36.7964118
+    },
+    {
+      "type": "node",
+      "id": 4885056680,
+      "lat": -1.2862526,
+      "lon": 36.7964389
+    },
+    {
+      "type": "node",
+      "id": 4885056686,
+      "lat": -1.286271,
+      "lon": 36.7965249
+    },
+    {
+      "type": "node",
+      "id": 4885056696,
+      "lat": -1.2864134,
+      "lon": 36.7966085
+    },
+    {
+      "type": "node",
+      "id": 4885056697,
+      "lat": -1.2861506,
+      "lon": 36.7965522
+    },
+    {
+      "type": "node",
+      "id": 4885056707,
+      "lat": -1.2861774,
+      "lon": 36.7966729
+    },
+    {
+      "type": "node",
+      "id": 5424655280,
+      "lat": -1.2864749,
+      "lon": 36.7963432
+    },
+    {
+      "type": "node",
+      "id": 5424655281,
+      "lat": -1.2862974,
+      "lon": 36.7963937
+    },
+    {
+      "type": "node",
+      "id": 5424655282,
+      "lat": -1.2861584,
+      "lon": 36.7959053
+    },
+    {
+      "type": "node",
+      "id": 5424655283,
+      "lat": -1.286336,
+      "lon": 36.7958548
+    },
+    {
+      "type": "node",
+      "id": 5339226809,
+      "lat": -1.2790919,
+      "lon": 36.7811118
+    },
+    {
+      "type": "node",
+      "id": 5339226810,
+      "lat": -1.2794751,
+      "lon": 36.7813822
+    },
+    {
+      "type": "node",
+      "id": 5339226811,
+      "lat": -1.2794157,
+      "lon": 36.7815813
+    },
+    {
+      "type": "node",
+      "id": 5339226812,
+      "lat": -1.2792612,
+      "lon": 36.7816913
+    },
+    {
+      "type": "node",
+      "id": 5339226813,
+      "lat": -1.2788928,
+      "lon": 36.7813584
+    },
+    {
+      "type": "node",
+      "id": 5339226814,
+      "lat": -1.2789314,
+      "lon": 36.7813287
+    },
+    {
+      "type": "node",
+      "id": 295831454,
+      "lat": -1.2595385,
+      "lon": 36.776134
+    },
+    {
+      "type": "node",
+      "id": 295831455,
+      "lat": -1.2600105,
+      "lon": 36.7761426
+    },
+    {
+      "type": "node",
+      "id": 295831456,
+      "lat": -1.2598989,
+      "lon": 36.7777905
+    },
+    {
+      "type": "node",
+      "id": 295831457,
+      "lat": -1.2597101,
+      "lon": 36.7777733
+    },
+    {
+      "type": "node",
+      "id": 295831458,
+      "lat": -1.259856,
+      "lon": 36.7762541
+    },
+    {
+      "type": "node",
+      "id": 295831459,
+      "lat": -1.2595213,
+      "lon": 36.7762541
+    },
+    {
+      "type": "node",
+      "id": 2403564303,
+      "lat": -1.2515298,
+      "lon": 36.756751
+    },
+    {
+      "type": "node",
+      "id": 2403564305,
+      "lat": -1.2515624,
+      "lon": 36.7566148
+    },
+    {
+      "type": "node",
+      "id": 2403564309,
+      "lat": -1.2516652,
+      "lon": 36.7567834
+    },
+    {
+      "type": "node",
+      "id": 2403564310,
+      "lat": -1.2516769,
+      "lon": 36.7567347
+    },
+    {
+      "type": "node",
+      "id": 2403564311,
+      "lat": -1.2518236,
+      "lon": 36.7567698
+    },
+    {
+      "type": "node",
+      "id": 2403564312,
+      "lat": -1.2518446,
+      "lon": 36.7566824
+    },
+    {
+      "type": "node",
+      "id": 295827266,
+      "lat": -1.2616494,
+      "lon": 36.8012995
+    },
+    {
+      "type": "node",
+      "id": 295827310,
+      "lat": -1.2617352,
+      "lon": 36.8021664
+    },
+    {
+      "type": "node",
+      "id": 2468114323,
+      "lat": -1.2640962,
+      "lon": 36.8028943
+    },
+    {
+      "type": "node",
+      "id": 2468114324,
+      "lat": -1.2643081,
+      "lon": 36.8030854
+    },
+    {
+      "type": "node",
+      "id": 2468114325,
+      "lat": -1.2644032,
+      "lon": 36.8029799
+    },
+    {
+      "type": "node",
+      "id": 2468114326,
+      "lat": -1.2644988,
+      "lon": 36.8030662
+    },
+    {
+      "type": "node",
+      "id": 2468114327,
+      "lat": -1.2648682,
+      "lon": 36.8026564
+    },
+    {
+      "type": "node",
+      "id": 2468114328,
+      "lat": -1.2645607,
+      "lon": 36.802379
+    },
+    {
+      "type": "node",
+      "id": 5340535137,
+      "lat": -1.2629359,
+      "lon": 36.8041662
+    },
+    {
+      "type": "node",
+      "id": 5340535138,
+      "lat": -1.263044,
+      "lon": 36.8040855
+    },
+    {
+      "type": "node",
+      "id": 5340535139,
+      "lat": -1.2631651,
+      "lon": 36.8042274
+    },
+    {
+      "type": "node",
+      "id": 5340535140,
+      "lat": -1.2629841,
+      "lon": 36.8044253
+    },
+    {
+      "type": "node",
+      "id": 5340535141,
+      "lat": -1.2628083,
+      "lon": 36.8043055
+    },
+    {
+      "type": "node",
+      "id": 5552257957,
+      "lat": -1.2652071,
+      "lon": 36.8046196
+    },
+    {
+      "type": "node",
+      "id": 5552257958,
+      "lat": -1.2656132,
+      "lon": 36.8041584
+    },
+    {
+      "type": "node",
+      "id": 5552257959,
+      "lat": -1.2658059,
+      "lon": 36.8042961
+    },
+    {
+      "type": "node",
+      "id": 5552257960,
+      "lat": -1.2654067,
+      "lon": 36.8047849
+    },
+    {
+      "type": "node",
+      "id": 295827267,
+      "lat": -1.2614349,
+      "lon": 36.8012995
+    },
+    {
+      "type": "node",
+      "id": 295827268,
+      "lat": -1.2614349,
+      "lon": 36.8013768
+    },
+    {
+      "type": "node",
+      "id": 295827269,
+      "lat": -1.2611431,
+      "lon": 36.8016858
+    },
+    {
+      "type": "node",
+      "id": 295827270,
+      "lat": -1.2610144,
+      "lon": 36.8016943
+    },
+    {
+      "type": "node",
+      "id": 295827271,
+      "lat": -1.2606369,
+      "lon": 36.8021063
+    },
+    {
+      "type": "node",
+      "id": 295827306,
+      "lat": -1.2604995,
+      "lon": 36.8019867
+    },
+    {
+      "type": "node",
+      "id": 295827308,
+      "lat": -1.2607913,
+      "lon": 36.8025355
+    },
+    {
+      "type": "node",
+      "id": 295827709,
+      "lat": -1.2602528,
+      "lon": 36.8022334
+    },
+    {
+      "type": "node",
+      "id": 295827710,
+      "lat": -1.2611689,
+      "lon": 36.8022265
+    },
+    {
+      "type": "node",
+      "id": 652433140,
+      "lat": -1.2605746,
+      "lon": 36.8025231
+    },
+    {
+      "type": "node",
+      "id": 2466520954,
+      "lat": -1.2565516,
+      "lon": 36.8028614
+    },
+    {
+      "type": "node",
+      "id": 2466520955,
+      "lat": -1.2565918,
+      "lon": 36.8029236
+    },
+    {
+      "type": "node",
+      "id": 2466520956,
+      "lat": -1.2565626,
+      "lon": 36.8029425
+    },
+    {
+      "type": "node",
+      "id": 2466520957,
+      "lat": -1.2570173,
+      "lon": 36.803646
+    },
+    {
+      "type": "node",
+      "id": 2466520958,
+      "lat": -1.2570713,
+      "lon": 36.8036111
+    },
+    {
+      "type": "node",
+      "id": 2466520959,
+      "lat": -1.257104,
+      "lon": 36.8036618
+    },
+    {
+      "type": "node",
+      "id": 2466520960,
+      "lat": -1.2575288,
+      "lon": 36.8033871
+    },
+    {
+      "type": "node",
+      "id": 2466520961,
+      "lat": -1.2570012,
+      "lon": 36.8025707
+    },
+    {
+      "type": "node",
+      "id": 5328467862,
+      "lat": -1.2603192,
+      "lon": 36.8032348
+    },
+    {
+      "type": "node",
+      "id": 5328467863,
+      "lat": -1.2608194,
+      "lon": 36.8038006
+    },
+    {
+      "type": "node",
+      "id": 5328467864,
+      "lat": -1.2603257,
+      "lon": 36.8041108
+    },
+    {
+      "type": "node",
+      "id": 5328467865,
+      "lat": -1.2600375,
+      "lon": 36.8037823
+    },
+    {
+      "type": "node",
+      "id": 5328467866,
+      "lat": -1.2600044,
+      "lon": 36.8037062
+    },
+    {
+      "type": "node",
+      "id": 5328467867,
+      "lat": -1.2597949,
+      "lon": 36.8033889
+    },
+    {
+      "type": "node",
+      "id": 5328472240,
+      "lat": -1.2601732,
+      "lon": 36.8038613
+    },
+    {
+      "type": "node",
+      "id": 5328472241,
+      "lat": -1.2600923,
+      "lon": 36.8031797
+    },
+    {
+      "type": "node",
+      "id": 6251558914,
+      "lat": -1.2602898,
+      "lon": 36.8032012
+    },
+    {
+      "type": "node",
+      "id": 6251558915,
+      "lat": -1.2601553,
+      "lon": 36.8032711
+    },
+    {
+      "type": "node",
+      "id": 6327592123,
+      "lat": -1.2606211,
+      "lon": 36.8035604
+    },
+    {
+      "type": "node",
+      "id": 6327592136,
+      "lat": -1.2607299,
+      "lon": 36.8036811
+    },
+    {
+      "type": "node",
+      "id": 5340458897,
+      "lat": -1.2526672,
+      "lon": 36.7960253
+    },
+    {
+      "type": "node",
+      "id": 5340458898,
+      "lat": -1.2532593,
+      "lon": 36.7957522
+    },
+    {
+      "type": "node",
+      "id": 5340458899,
+      "lat": -1.2534977,
+      "lon": 36.796206
+    },
+    {
+      "type": "node",
+      "id": 5340458900,
+      "lat": -1.2528517,
+      "lon": 36.7965329
+    },
+    {
+      "type": "node",
+      "id": 5340490322,
+      "lat": -1.2484731,
+      "lon": 36.796973
+    },
+    {
+      "type": "node",
+      "id": 5340490323,
+      "lat": -1.2486548,
+      "lon": 36.7973582
+    },
+    {
+      "type": "node",
+      "id": 5340490321,
+      "lat": -1.2482729,
+      "lon": 36.7970624
+    },
+    {
+      "type": "node",
+      "id": 5340490324,
+      "lat": -1.248393,
+      "lon": 36.7974598
+    },
+    {
+      "type": "node",
+      "id": 4525886776,
+      "lat": -1.3232717,
+      "lon": 36.8436764
+    },
+    {
+      "type": "node",
+      "id": 4525886777,
+      "lat": -1.3239049,
+      "lon": 36.8428857
+    },
+    {
+      "type": "node",
+      "id": 4525886778,
+      "lat": -1.324513,
+      "lon": 36.8440338
+    },
+    {
+      "type": "node",
+      "id": 6207546822,
+      "lat": -1.3235724,
+      "lon": 36.8430606
+    },
+    {
+      "type": "node",
+      "id": 6207546823,
+      "lat": -1.3237548,
+      "lon": 36.843442
+    },
+    {
+      "type": "node",
+      "id": 4525886779,
+      "lat": -1.3236959,
+      "lon": 36.8444328
+    },
+    {
+      "type": "node",
+      "id": 1576909839,
+      "lat": -1.3078263,
+      "lon": 36.8185726
+    },
+    {
+      "type": "node",
+      "id": 1576909841,
+      "lat": -1.3078381,
+      "lon": 36.8190473
+    },
+    {
+      "type": "node",
+      "id": 1576909842,
+      "lat": -1.3079205,
+      "lon": 36.8190552
+    },
+    {
+      "type": "node",
+      "id": 1576909849,
+      "lat": -1.3080539,
+      "lon": 36.8185726
+    },
+    {
+      "type": "node",
+      "id": 1576909851,
+      "lat": -1.3081166,
+      "lon": 36.8190042
+    },
+    {
+      "type": "node",
+      "id": 1576909856,
+      "lat": -1.3082971,
+      "lon": 36.8189218
+    },
+    {
+      "type": "node",
+      "id": 5372486939,
+      "lat": -1.306767,
+      "lon": 36.8221005
+    },
+    {
+      "type": "node",
+      "id": 5372486940,
+      "lat": -1.3072408,
+      "lon": 36.8221696
+    },
+    {
+      "type": "node",
+      "id": 5372486941,
+      "lat": -1.3072161,
+      "lon": 36.8226879
+    },
+    {
+      "type": "node",
+      "id": 5372486942,
+      "lat": -1.3066732,
+      "lon": 36.8225743
+    },
+    {
+      "type": "node",
+      "id": 5580372100,
+      "lat": -1.3011683,
+      "lon": 36.8251011
+    },
+    {
+      "type": "node",
+      "id": 5580372101,
+      "lat": -1.3010388,
+      "lon": 36.8253814
+    },
+    {
+      "type": "node",
+      "id": 5569591198,
+      "lat": -1.2971099,
+      "lon": 36.8285682
+    },
+    {
+      "type": "node",
+      "id": 5569591199,
+      "lat": -1.2972988,
+      "lon": 36.8282381
+    },
+    {
+      "type": "node",
+      "id": 5569591200,
+      "lat": -1.2980052,
+      "lon": 36.8285661
+    },
+    {
+      "type": "node",
+      "id": 5569591201,
+      "lat": -1.2979812,
+      "lon": 36.8286621
+    },
+    {
+      "type": "node",
+      "id": 5569591202,
+      "lat": -1.2979306,
+      "lon": 36.8287314
+    },
+    {
+      "type": "node",
+      "id": 5569591203,
+      "lat": -1.2979146,
+      "lon": 36.8287634
+    },
+    {
+      "type": "node",
+      "id": 5569591204,
+      "lat": -1.2978932,
+      "lon": 36.8288007
+    },
+    {
+      "type": "node",
+      "id": 5569591205,
+      "lat": -1.2978399,
+      "lon": 36.8288247
+    },
+    {
+      "type": "node",
+      "id": 5569591206,
+      "lat": -1.2977999,
+      "lon": 36.8288221
+    },
+    {
+      "type": "node",
+      "id": 5569591207,
+      "lat": -1.2977493,
+      "lon": 36.8288327
+    },
+    {
+      "type": "node",
+      "id": 5569591208,
+      "lat": -1.2976186,
+      "lon": 36.8288023
+    },
+    {
+      "type": "node",
+      "id": 5580372099,
+      "lat": -1.3008566,
+      "lon": 36.8249516
+    },
+    {
+      "type": "node",
+      "id": 5580372102,
+      "lat": -1.3007366,
+      "lon": 36.8252413
+    },
+    {
+      "type": "node",
+      "id": 6455396027,
+      "lat": -1.2975758,
+      "lon": 36.8287732
+    },
+    {
+      "type": "node",
+      "id": 1108902314,
+      "lat": -1.316879,
+      "lon": 36.8352396
+    },
+    {
+      "type": "node",
+      "id": 1108902315,
+      "lat": -1.3159276,
+      "lon": 36.8346196
+    },
+    {
+      "type": "node",
+      "id": 1108902317,
+      "lat": -1.3164332,
+      "lon": 36.8352993
+    },
+    {
+      "type": "node",
+      "id": 1108902318,
+      "lat": -1.3162441,
+      "lon": 36.8350264
+    },
+    {
+      "type": "node",
+      "id": 1108902320,
+      "lat": -1.3159115,
+      "lon": 36.8350444
+    },
+    {
+      "type": "node",
+      "id": 1108902324,
+      "lat": -1.3166478,
+      "lon": 36.834413
+    },
+    {
+      "type": "node",
+      "id": 1108902326,
+      "lat": -1.3171542,
+      "lon": 36.8352004
+    },
+    {
+      "type": "node",
+      "id": 1108902328,
+      "lat": -1.3157631,
+      "lon": 36.8347086
+    },
+    {
+      "type": "node",
+      "id": 1108902345,
+      "lat": -1.3165891,
+      "lon": 36.834323
+    },
+    {
+      "type": "node",
+      "id": 1108902346,
+      "lat": -1.3169357,
+      "lon": 36.8350521
+    },
+    {
+      "type": "node",
+      "id": 1108902350,
+      "lat": -1.3165316,
+      "lon": 36.8343606
+    },
+    {
+      "type": "node",
+      "id": 1108902354,
+      "lat": -1.3164022,
+      "lon": 36.8340243
+    },
+    {
+      "type": "node",
+      "id": 1108902356,
+      "lat": -1.3169432,
+      "lon": 36.8353381
+    },
+    {
+      "type": "node",
+      "id": 1108902358,
+      "lat": -1.316052,
+      "lon": 36.8349527
+    },
+    {
+      "type": "node",
+      "id": 1108902359,
+      "lat": -1.316143,
+      "lon": 36.8350923
+    },
+    {
+      "type": "node",
+      "id": 1108902360,
+      "lat": -1.3167721,
+      "lon": 36.8353093
+    },
+    {
+      "type": "node",
+      "id": 1108902373,
+      "lat": -1.3164753,
+      "lon": 36.8342742
+    },
+    {
+      "type": "node",
+      "id": 1108902375,
+      "lat": -1.3165384,
+      "lon": 36.8342331
+    },
+    {
+      "type": "node",
+      "id": 1108902376,
+      "lat": -1.3165574,
+      "lon": 36.8344719
+    },
+    {
+      "type": "node",
+      "id": 1108902378,
+      "lat": -1.3156629,
+      "lon": 36.834555
+    },
+    {
+      "type": "node",
+      "id": 1108902380,
+      "lat": -1.3170211,
+      "lon": 36.8349964
+    },
+    {
+      "type": "node",
+      "id": 1108902383,
+      "lat": -1.3162227,
+      "lon": 36.8341414
+    },
+    {
+      "type": "node",
+      "id": 1108902387,
+      "lat": -1.3157136,
+      "lon": 36.8347409
+    },
+    {
+      "type": "node",
+      "id": 1108902394,
+      "lat": -1.3158191,
+      "lon": 36.8344531
+    },
+    {
+      "type": "node",
+      "id": 1108902395,
+      "lat": -1.3163534,
+      "lon": 36.8343418
+    },
+    {
+      "type": "node",
+      "id": 1677067455,
+      "lat": -1.3301349,
+      "lon": 36.8633753
+    },
+    {
+      "type": "node",
+      "id": 1677067458,
+      "lat": -1.3306123,
+      "lon": 36.8634412
+    },
+    {
+      "type": "node",
+      "id": 1677067450,
+      "lat": -1.3297862,
+      "lon": 36.869595
+    },
+    {
+      "type": "node",
+      "id": 6154250425,
+      "lat": -1.3293571,
+      "lon": 36.8690411
+    },
+    {
+      "type": "node",
+      "id": 6208028467,
+      "lat": -1.3292875,
+      "lon": 36.8695907
+    },
+    {
+      "type": "node",
+      "id": 6208216876,
+      "lat": -1.3284549,
+      "lon": 36.8899294
+    },
+    {
+      "type": "node",
+      "id": 6208216877,
+      "lat": -1.3294776,
+      "lon": 36.8907605
+    },
+    {
+      "type": "node",
+      "id": 6208216878,
+      "lat": -1.3291183,
+      "lon": 36.8913271
+    },
+    {
+      "type": "node",
+      "id": 6208216879,
+      "lat": -1.3281441,
+      "lon": 36.8906238
+    },
+    {
+      "type": "node",
+      "id": 2353433613,
+      "lat": -1.3221794,
+      "lon": 36.8985983
+    },
+    {
+      "type": "node",
+      "id": 2353433614,
+      "lat": -1.3234149,
+      "lon": 36.899446
+    },
+    {
+      "type": "node",
+      "id": 2353433615,
+      "lat": -1.3238015,
+      "lon": 36.8993035
+    },
+    {
+      "type": "node",
+      "id": 2353433616,
+      "lat": -1.3222952,
+      "lon": 36.8984452
+    },
+    {
+      "type": "node",
+      "id": 6263080639,
+      "lat": -1.3237431,
+      "lon": 36.8994024
+    },
+    {
+      "type": "node",
+      "id": 6263080640,
+      "lat": -1.3222212,
+      "lon": 36.8984386
+    },
+    {
+      "type": "node",
+      "id": 6263080641,
+      "lat": -1.3221708,
+      "lon": 36.8984997
+    },
+    {
+      "type": "node",
+      "id": 5539579851,
+      "lat": -1.3085574,
+      "lon": 36.858468
+    },
+    {
+      "type": "node",
+      "id": 5539579852,
+      "lat": -1.3090957,
+      "lon": 36.858563
+    },
+    {
+      "type": "node",
+      "id": 5539579853,
+      "lat": -1.3090451,
+      "lon": 36.8589558
+    },
+    {
+      "type": "node",
+      "id": 5539579854,
+      "lat": -1.308513,
+      "lon": 36.8588164
+    },
+    {
+      "type": "node",
+      "id": 5496079279,
+      "lat": -1.2961934,
+      "lon": 36.8756984
+    },
+    {
+      "type": "node",
+      "id": 5496079280,
+      "lat": -1.2961281,
+      "lon": 36.8765445
+    },
+    {
+      "type": "node",
+      "id": 1375585845,
+      "lat": -1.283643,
+      "lon": 36.8245951
+    },
+    {
+      "type": "node",
+      "id": 1375585847,
+      "lat": -1.2835549,
+      "lon": 36.8244889
+    },
+    {
+      "type": "node",
+      "id": 1375585880,
+      "lat": -1.2833922,
+      "lon": 36.8246242
+    },
+    {
+      "type": "node",
+      "id": 1375921174,
+      "lat": -1.2827898,
+      "lon": 36.8236341
+    },
+    {
+      "type": "node",
+      "id": 1375921175,
+      "lat": -1.282827,
+      "lon": 36.8238931
+    },
+    {
+      "type": "node",
+      "id": 1375921192,
+      "lat": -1.28299,
+      "lon": 36.8237618
+    },
+    {
+      "type": "node",
+      "id": 1375921198,
+      "lat": -1.282672,
+      "lon": 36.8237023
+    },
+    {
+      "type": "node",
+      "id": 1375934456,
+      "lat": -1.282348,
+      "lon": 36.8228316
+    },
+    {
+      "type": "node",
+      "id": 1375934493,
+      "lat": -1.2825088,
+      "lon": 36.8226974
+    },
+    {
+      "type": "node",
+      "id": 1375977719,
+      "lat": -1.2825308,
+      "lon": 36.8242458
+    },
+    {
+      "type": "node",
+      "id": 1375977729,
+      "lat": -1.2826892,
+      "lon": 36.8241203
+    },
+    {
+      "type": "node",
+      "id": 1376375760,
+      "lat": -1.2831728,
+      "lon": 36.8201285
+    },
+    {
+      "type": "node",
+      "id": 1376375761,
+      "lat": -1.2830099,
+      "lon": 36.8200499
+    },
+    {
+      "type": "node",
+      "id": 1376375762,
+      "lat": -1.2825486,
+      "lon": 36.8210067
+    },
+    {
+      "type": "node",
+      "id": 1376375763,
+      "lat": -1.2827114,
+      "lon": 36.8210852
+    },
+    {
+      "type": "node",
+      "id": 6573867435,
+      "lat": -1.2828484,
+      "lon": 36.8235858
+    },
+    {
+      "type": "node",
+      "id": 6573867436,
+      "lat": -1.2827769,
+      "lon": 36.8236181
+    },
+    {
+      "type": "node",
+      "id": 6573867475,
+      "lat": -1.2825886,
+      "lon": 36.822793
+    },
+    {
+      "type": "node",
+      "id": 6573867476,
+      "lat": -1.2824278,
+      "lon": 36.8229273
+    },
+    {
+      "type": "node",
+      "id": 6573884398,
+      "lat": -1.2825738,
+      "lon": 36.8243002
+    },
+    {
+      "type": "node",
+      "id": 6573884399,
+      "lat": -1.2827322,
+      "lon": 36.8241747
+    },
+    {
+      "type": "node",
+      "id": 1375001890,
+      "lat": -1.2831695,
+      "lon": 36.8257134
+    },
+    {
+      "type": "node",
+      "id": 1375002033,
+      "lat": -1.2832448,
+      "lon": 36.8256552
+    },
+    {
+      "type": "node",
+      "id": 1375002066,
+      "lat": -1.2830873,
+      "lon": 36.825451
+    },
+    {
+      "type": "node",
+      "id": 1375002068,
+      "lat": -1.2830125,
+      "lon": 36.8255086
+    },
+    {
+      "type": "node",
+      "id": 1375585878,
+      "lat": -1.2834868,
+      "lon": 36.8247306
+    },
+    {
+      "type": "node",
+      "id": 1375628731,
+      "lat": -1.2835933,
+      "lon": 36.8260714
+    },
+    {
+      "type": "node",
+      "id": 1375628738,
+      "lat": -1.2836007,
+      "lon": 36.8262976
+    },
+    {
+      "type": "node",
+      "id": 1375628740,
+      "lat": -1.28386,
+      "lon": 36.826282
+    },
+    {
+      "type": "node",
+      "id": 1375628742,
+      "lat": -1.283726,
+      "lon": 36.8261345
+    },
+    {
+      "type": "node",
+      "id": 1375628746,
+      "lat": -1.2838024,
+      "lon": 36.8263331
+    },
+    {
+      "type": "node",
+      "id": 1375628748,
+      "lat": -1.2838067,
+      "lon": 36.8262231
+    },
+    {
+      "type": "node",
+      "id": 1375628750,
+      "lat": -1.2837069,
+      "lon": 36.8262114
+    },
+    {
+      "type": "node",
+      "id": 1375628756,
+      "lat": -1.283832,
+      "lon": 36.8260378
+    },
+    {
+      "type": "node",
+      "id": 1375628758,
+      "lat": -1.2834871,
+      "lon": 36.8261576
+    },
+    {
+      "type": "node",
+      "id": 1375628759,
+      "lat": -1.2839984,
+      "lon": 36.8262204
+    },
+    {
+      "type": "node",
+      "id": 1375628760,
+      "lat": -1.2836974,
+      "lon": 36.8264155
+    },
+    {
+      "type": "node",
+      "id": 1375628761,
+      "lat": -1.2839004,
+      "lon": 36.8262971
+    },
+    {
+      "type": "node",
+      "id": 1378528984,
+      "lat": -1.2857913,
+      "lon": 36.8275721
+    },
+    {
+      "type": "node",
+      "id": 1378528986,
+      "lat": -1.2855259,
+      "lon": 36.8274273
+    },
+    {
+      "type": "node",
+      "id": 1378529088,
+      "lat": -1.2855901,
+      "lon": 36.8276871
+    },
+    {
+      "type": "node",
+      "id": 1378529089,
+      "lat": -1.285609,
+      "lon": 36.8276472
+    },
+    {
+      "type": "node",
+      "id": 1378529094,
+      "lat": -1.2857007,
+      "lon": 36.8277428
+    },
+    {
+      "type": "node",
+      "id": 1378529109,
+      "lat": -1.2854659,
+      "lon": 36.8275669
+    },
+    {
+      "type": "node",
+      "id": 6573902596,
+      "lat": -1.2836059,
+      "lon": 36.8262988
+    },
+    {
+      "type": "node",
+      "id": 6573902597,
+      "lat": -1.2837109,
+      "lon": 36.8262164
+    },
+    {
+      "type": "node",
+      "id": 6574019576,
+      "lat": -1.2831117,
+      "lon": 36.8256385
+    },
+    {
+      "type": "node",
+      "id": 6574019577,
+      "lat": -1.2830881,
+      "lon": 36.8256077
+    },
+    {
+      "type": "node",
+      "id": 6574019578,
+      "lat": -1.2830718,
+      "lon": 36.8256202
+    },
+    {
+      "type": "node",
+      "id": 6574019579,
+      "lat": -1.2830956,
+      "lon": 36.825651
+    },
+    {
+      "type": "node",
+      "id": 6574019580,
+      "lat": -1.2830719,
+      "lon": 36.8255867
+    },
+    {
+      "type": "node",
+      "id": 6574019581,
+      "lat": -1.283047,
+      "lon": 36.8255534
+    },
+    {
+      "type": "node",
+      "id": 6574019582,
+      "lat": -1.2830289,
+      "lon": 36.8255673
+    },
+    {
+      "type": "node",
+      "id": 6574019583,
+      "lat": -1.2830543,
+      "lon": 36.8256002
+    },
+    {
+      "type": "node",
+      "id": 5525699023,
+      "lat": -1.2687935,
+      "lon": 36.8099321
+    },
+    {
+      "type": "node",
+      "id": 5525699024,
+      "lat": -1.2684927,
+      "lon": 36.8102533
+    },
+    {
+      "type": "node",
+      "id": 5525699025,
+      "lat": -1.2686878,
+      "lon": 36.8105135
+    },
+    {
+      "type": "node",
+      "id": 5525699026,
+      "lat": -1.2689967,
+      "lon": 36.8101313
+    },
+    {
+      "type": "node",
+      "id": 1376660518,
+      "lat": -1.2809242,
+      "lon": 36.8240046
+    },
+    {
+      "type": "node",
+      "id": 1376660519,
+      "lat": -1.2809591,
+      "lon": 36.8240046
+    },
+    {
+      "type": "node",
+      "id": 1376660574,
+      "lat": -1.2808163,
+      "lon": 36.8239668
+    },
+    {
+      "type": "node",
+      "id": 1376660599,
+      "lat": -1.2809836,
+      "lon": 36.8240918
+    },
+    {
+      "type": "node",
+      "id": 1376660618,
+      "lat": -1.2809269,
+      "lon": 36.8240421
+    },
+    {
+      "type": "node",
+      "id": 1376660627,
+      "lat": -1.2809886,
+      "lon": 36.8240475
+    },
+    {
+      "type": "node",
+      "id": 1376660639,
+      "lat": -1.2809886,
+      "lon": 36.824026
+    },
+    {
+      "type": "node",
+      "id": 1376660682,
+      "lat": -1.2809859,
+      "lon": 36.8239587
+    },
+    {
+      "type": "node",
+      "id": 1376660683,
+      "lat": -1.2808228,
+      "lon": 36.8240939
+    },
+    {
+      "type": "node",
+      "id": 1390658773,
+      "lat": -1.2788918,
+      "lon": 36.8203596
+    },
+    {
+      "type": "node",
+      "id": 1390658848,
+      "lat": -1.278932,
+      "lon": 36.8198848
+    },
+    {
+      "type": "node",
+      "id": 1390658854,
+      "lat": -1.279109,
+      "lon": 36.8202389
+    },
+    {
+      "type": "node",
+      "id": 1390658895,
+      "lat": -1.2787175,
+      "lon": 36.8199841
+    },
+    {
+      "type": "node",
+      "id": 1392091515,
+      "lat": -1.2880758,
+      "lon": 36.8321744
+    },
+    {
+      "type": "node",
+      "id": 1392091526,
+      "lat": -1.2882045,
+      "lon": 36.8322495
+    },
+    {
+      "type": "node",
+      "id": 1392091532,
+      "lat": -1.2882413,
+      "lon": 36.8323329
+    },
+    {
+      "type": "node",
+      "id": 1392091543,
+      "lat": -1.2878398,
+      "lon": 36.8320564
+    },
+    {
+      "type": "node",
+      "id": 1392091549,
+      "lat": -1.287931,
+      "lon": 36.8329201
+    },
+    {
+      "type": "node",
+      "id": 1392091510,
+      "lat": -1.2872231,
+      "lon": 36.8317506
+    },
+    {
+      "type": "node",
+      "id": 1392091514,
+      "lat": -1.2877594,
+      "lon": 36.8330113
+    },
+    {
+      "type": "node",
+      "id": 1392091530,
+      "lat": -1.2875663,
+      "lon": 36.8319223
+    },
+    {
+      "type": "node",
+      "id": 1392091531,
+      "lat": -1.2874376,
+      "lon": 36.8318472
+    },
+    {
+      "type": "node",
+      "id": 1392091541,
+      "lat": -1.2869281,
+      "lon": 36.8317292
+    },
+    {
+      "type": "node",
+      "id": 1392091550,
+      "lat": -1.2870944,
+      "lon": 36.8317024
+    },
+    {
+      "type": "node",
+      "id": 5496786758,
+      "lat": -1.2876629,
+      "lon": 36.8330274
+    },
+    {
+      "type": "node",
+      "id": 1406063935,
+      "lat": -1.2875312,
+      "lon": 36.8389296
+    },
+    {
+      "type": "node",
+      "id": 1406063948,
+      "lat": -1.2875712,
+      "lon": 36.8389054
+    },
+    {
+      "type": "node",
+      "id": 1406063950,
+      "lat": -1.287524,
+      "lon": 36.8388122
+    },
+    {
+      "type": "node",
+      "id": 1406063964,
+      "lat": -1.2874963,
+      "lon": 36.8386777
+    },
+    {
+      "type": "node",
+      "id": 1406063971,
+      "lat": -1.2875331,
+      "lon": 36.8386815
+    },
+    {
+      "type": "node",
+      "id": 1406063997,
+      "lat": -1.2875054,
+      "lon": 36.8386956
+    },
+    {
+      "type": "node",
+      "id": 1406064006,
+      "lat": -1.2873169,
+      "lon": 36.8389023
+    },
+    {
+      "type": "node",
+      "id": 1406064008,
+      "lat": -1.287584,
+      "lon": 36.8387817
+    },
+    {
+      "type": "node",
+      "id": 1406064011,
+      "lat": -1.2873714,
+      "lon": 36.8390094
+    },
+    {
+      "type": "node",
+      "id": 1406064013,
+      "lat": -1.2873257,
+      "lon": 36.8388079
+    },
+    {
+      "type": "node",
+      "id": 1406064015,
+      "lat": -1.2873082,
+      "lon": 36.8387734
+    },
+    {
+      "type": "node",
+      "id": 1406064039,
+      "lat": -1.2873328,
+      "lon": 36.8388942
+    },
+    {
+      "type": "node",
+      "id": 1406064048,
+      "lat": -1.2872965,
+      "lon": 36.8388227
+    },
+    {
+      "type": "node",
+      "id": 1380210772,
+      "lat": -1.2784902,
+      "lon": 36.8495051
+    },
+    {
+      "type": "node",
+      "id": 1380210890,
+      "lat": -1.2790145,
+      "lon": 36.8496231
+    },
+    {
+      "type": "node",
+      "id": 1380210975,
+      "lat": -1.2784262,
+      "lon": 36.8497988
+    },
+    {
+      "type": "node",
+      "id": 1380211195,
+      "lat": -1.2789504,
+      "lon": 36.8499168
+    },
+    {
+      "type": "node",
+      "id": 2081210010,
+      "lat": -1.2726777,
+      "lon": 36.8488932
+    },
+    {
+      "type": "node",
+      "id": 2081210011,
+      "lat": -1.272756,
+      "lon": 36.848502
+    },
+    {
+      "type": "node",
+      "id": 2081210019,
+      "lat": -1.2728412,
+      "lon": 36.8489259
+    },
+    {
+      "type": "node",
+      "id": 2081210021,
+      "lat": -1.2729194,
+      "lon": 36.8485347
+    },
+    {
+      "type": "node",
+      "id": 5494261901,
+      "lat": -1.2742096,
+      "lon": 36.8495011
+    },
+    {
+      "type": "node",
+      "id": 5494261902,
+      "lat": -1.2743479,
+      "lon": 36.8495302
+    },
+    {
+      "type": "node",
+      "id": 5494261903,
+      "lat": -1.2743187,
+      "lon": 36.8497485
+    },
+    {
+      "type": "node",
+      "id": 5494261904,
+      "lat": -1.2741805,
+      "lon": 36.8497049
+    },
+    {
+      "type": "node",
+      "id": 3660408476,
+      "lat": -1.2633202,
+      "lon": 36.8100346
+    },
+    {
+      "type": "node",
+      "id": 3660408477,
+      "lat": -1.2636595,
+      "lon": 36.8098148
+    },
+    {
+      "type": "node",
+      "id": 3660408478,
+      "lat": -1.2637896,
+      "lon": 36.8100158
+    },
+    {
+      "type": "node",
+      "id": 5525760323,
+      "lat": -1.263425,
+      "lon": 36.8102237
+    },
+    {
+      "type": "node",
+      "id": 4258334789,
+      "lat": -1.2589225,
+      "lon": 36.8052697
+    },
+    {
+      "type": "node",
+      "id": 4258334790,
+      "lat": -1.2582306,
+      "lon": 36.805723
+    },
+    {
+      "type": "node",
+      "id": 4258334791,
+      "lat": -1.2585175,
+      "lon": 36.806187
+    },
+    {
+      "type": "node",
+      "id": 4258334792,
+      "lat": -1.2592402,
+      "lon": 36.805758
+    },
+    {
+      "type": "node",
+      "id": 5352460798,
+      "lat": -1.2588431,
+      "lon": 36.8053217
+    },
+    {
+      "type": "node",
+      "id": 277574443,
+      "lat": -1.2585517,
+      "lon": 36.8181138
+    },
+    {
+      "type": "node",
+      "id": 2682435038,
+      "lat": -1.2596278,
+      "lon": 36.816323
+    },
+    {
+      "type": "node",
+      "id": 2682435041,
+      "lat": -1.2595554,
+      "lon": 36.8163659
+    },
+    {
+      "type": "node",
+      "id": 2682435043,
+      "lat": -1.2594937,
+      "lon": 36.816272
+    },
+    {
+      "type": "node",
+      "id": 2682435046,
+      "lat": -1.2595715,
+      "lon": 36.816221
+    },
+    {
+      "type": "node",
+      "id": 5340908748,
+      "lat": -1.2570505,
+      "lon": 36.8175089
+    },
+    {
+      "type": "node",
+      "id": 5340908749,
+      "lat": -1.2574701,
+      "lon": 36.8172792
+    },
+    {
+      "type": "node",
+      "id": 5340908750,
+      "lat": -1.2576158,
+      "lon": 36.8175045
+    },
+    {
+      "type": "node",
+      "id": 5340908751,
+      "lat": -1.2571609,
+      "lon": 36.8177298
+    },
+    {
+      "type": "node",
+      "id": 277574442,
+      "lat": -1.2576846,
+      "lon": 36.8186104
+    },
+    {
+      "type": "node",
+      "id": 277574444,
+      "lat": -1.2587405,
+      "lon": 36.8184228
+    },
+    {
+      "type": "node",
+      "id": 277574445,
+      "lat": -1.2579117,
+      "lon": 36.8189369
+    },
+    {
+      "type": "node",
+      "id": 295829502,
+      "lat": -1.2595128,
+      "lon": 36.8183026
+    },
+    {
+      "type": "node",
+      "id": 295829503,
+      "lat": -1.25959,
+      "lon": 36.8184056
+    },
+    {
+      "type": "node",
+      "id": 295829504,
+      "lat": -1.2598131,
+      "lon": 36.8184742
+    },
+    {
+      "type": "node",
+      "id": 295829506,
+      "lat": -1.2600105,
+      "lon": 36.818603
+    },
+    {
+      "type": "node",
+      "id": 295829725,
+      "lat": -1.2599246,
+      "lon": 36.8184228
+    },
+    {
+      "type": "node",
+      "id": 295829726,
+      "lat": -1.2597359,
+      "lon": 36.8187317
+    },
+    {
+      "type": "node",
+      "id": 295829727,
+      "lat": -1.2594956,
+      "lon": 36.8186802
+    },
+    {
+      "type": "node",
+      "id": 295829728,
+      "lat": -1.2593326,
+      "lon": 36.8183884
+    },
+    {
+      "type": "node",
+      "id": 2433371773,
+      "lat": -1.2616149,
+      "lon": 36.8399219
+    },
+    {
+      "type": "node",
+      "id": 2433371763,
+      "lat": -1.2608104,
+      "lon": 36.8389992
+    },
+    {
+      "type": "node",
+      "id": 2433371766,
+      "lat": -1.2613842,
+      "lon": 36.8401203
+    },
+    {
+      "type": "node",
+      "id": 2433371768,
+      "lat": -1.2615425,
+      "lon": 36.8400426
+    },
+    {
+      "type": "node",
+      "id": 2433371770,
+      "lat": -1.2615076,
+      "lon": 36.8399755
+    },
+    {
+      "type": "node",
+      "id": 2433371775,
+      "lat": -1.2615505,
+      "lon": 36.8397931
+    },
+    {
+      "type": "node",
+      "id": 2433371776,
+      "lat": -1.2614459,
+      "lon": 36.839836
+    },
+    {
+      "type": "node",
+      "id": 2433371778,
+      "lat": -1.2613574,
+      "lon": 36.8396536
+    },
+    {
+      "type": "node",
+      "id": 2433371780,
+      "lat": -1.2614272,
+      "lon": 36.8396268
+    },
+    {
+      "type": "node",
+      "id": 2433371782,
+      "lat": -1.2614486,
+      "lon": 36.8395893
+    },
+    {
+      "type": "node",
+      "id": 2433371783,
+      "lat": -1.2614727,
+      "lon": 36.8395383
+    },
+    {
+      "type": "node",
+      "id": 2433371784,
+      "lat": -1.2614727,
+      "lon": 36.839482
+    },
+    {
+      "type": "node",
+      "id": 2433371785,
+      "lat": -1.2614459,
+      "lon": 36.8394391
+    },
+    {
+      "type": "node",
+      "id": 2433371786,
+      "lat": -1.2613977,
+      "lon": 36.8393935
+    },
+    {
+      "type": "node",
+      "id": 2433371789,
+      "lat": -1.261336,
+      "lon": 36.8393908
+    },
+    {
+      "type": "node",
+      "id": 2433371791,
+      "lat": -1.2612502,
+      "lon": 36.8394283
+    },
+    {
+      "type": "node",
+      "id": 2433371793,
+      "lat": -1.2611751,
+      "lon": 36.839313
+    },
+    {
+      "type": "node",
+      "id": 2433371795,
+      "lat": -1.2613092,
+      "lon": 36.8392379
+    },
+    {
+      "type": "node",
+      "id": 2433371797,
+      "lat": -1.2612019,
+      "lon": 36.8390475
+    },
+    {
+      "type": "node",
+      "id": 2433371799,
+      "lat": -1.2610866,
+      "lon": 36.8391092
+    },
+    {
+      "type": "node",
+      "id": 2433371801,
+      "lat": -1.2610598,
+      "lon": 36.8390662
+    },
+    {
+      "type": "node",
+      "id": 2433371803,
+      "lat": -1.2611188,
+      "lon": 36.8390341
+    },
+    {
+      "type": "node",
+      "id": 2433371805,
+      "lat": -1.2610196,
+      "lon": 36.8388731
+    },
+    {
+      "type": "node",
+      "id": 5496079278,
+      "lat": -1.2935941,
+      "lon": 36.8753176
+    },
+    {
+      "type": "node",
+      "id": 5496079281,
+      "lat": -1.2934403,
+      "lon": 36.8762599
+    },
+    {
+      "type": "node",
+      "id": 6169231009,
+      "lat": -1.2677875,
+      "lon": 36.9055459
+    },
+    {
+      "type": "node",
+      "id": 6169231010,
+      "lat": -1.2672956,
+      "lon": 36.9049549
+    },
+    {
+      "type": "node",
+      "id": 6169231011,
+      "lat": -1.2672143,
+      "lon": 36.9049319
+    },
+    {
+      "type": "node",
+      "id": 6169231012,
+      "lat": -1.2671789,
+      "lon": 36.9049531
+    },
+    {
+      "type": "node",
+      "id": 6169231013,
+      "lat": -1.2667171,
+      "lon": 36.9053053
+    },
+    {
+      "type": "node",
+      "id": 6169231014,
+      "lat": -1.2667083,
+      "lon": 36.9053513
+    },
+    {
+      "type": "node",
+      "id": 6169231015,
+      "lat": -1.2666888,
+      "lon": 36.905369
+    },
+    {
+      "type": "node",
+      "id": 6169231016,
+      "lat": -1.266726,
+      "lon": 36.9054115
+    },
+    {
+      "type": "node",
+      "id": 6169231017,
+      "lat": -1.2666694,
+      "lon": 36.9054575
+    },
+    {
+      "type": "node",
+      "id": 6169231018,
+      "lat": -1.266726,
+      "lon": 36.9055247
+    },
+    {
+      "type": "node",
+      "id": 6169231019,
+      "lat": -1.2667826,
+      "lon": 36.9054822
+    },
+    {
+      "type": "node",
+      "id": 6169231020,
+      "lat": -1.2668038,
+      "lon": 36.9055052
+    },
+    {
+      "type": "node",
+      "id": 6169231021,
+      "lat": -1.2668357,
+      "lon": 36.9054876
+    },
+    {
+      "type": "node",
+      "id": 6169231022,
+      "lat": -1.2668976,
+      "lon": 36.9055743
+    },
+    {
+      "type": "node",
+      "id": 6169231023,
+      "lat": -1.2669737,
+      "lon": 36.9055725
+    },
+    {
+      "type": "node",
+      "id": 6169231024,
+      "lat": -1.2672956,
+      "lon": 36.9055336
+    },
+    {
+      "type": "node",
+      "id": 6169231025,
+      "lat": -1.2674354,
+      "lon": 36.9056875
+    },
+    {
+      "type": "node",
+      "id": 6169231026,
+      "lat": -1.2674973,
+      "lon": 36.9056539
+    },
+    {
+      "type": "node",
+      "id": 6169231027,
+      "lat": -1.267584,
+      "lon": 36.9057601
+    },
+    {
+      "type": "node",
+      "id": 6169231028,
+      "lat": -1.2677645,
+      "lon": 36.9056167
+    },
+    {
+      "type": "node",
+      "id": 6169231029,
+      "lat": -1.2677397,
+      "lon": 36.9055866
+    },
+    {
+      "type": "node",
+      "id": 2847785813,
+      "lat": -1.2362337,
+      "lon": 36.7930812
+    },
+    {
+      "type": "node",
+      "id": 2847785814,
+      "lat": -1.2363208,
+      "lon": 36.793234
+    },
+    {
+      "type": "node",
+      "id": 2847785815,
+      "lat": -1.2366292,
+      "lon": 36.7930582
+    },
+    {
+      "type": "node",
+      "id": 2847785816,
+      "lat": -1.2365422,
+      "lon": 36.7929055
+    },
+    {
+      "type": "node",
+      "id": 260340097,
+      "lat": -1.2307933,
+      "lon": 36.8037964
+    },
+    {
+      "type": "node",
+      "id": 260340098,
+      "lat": -1.2310941,
+      "lon": 36.8045598
+    },
+    {
+      "type": "node",
+      "id": 5352782733,
+      "lat": -1.21587,
+      "lon": 36.7989021
+    },
+    {
+      "type": "node",
+      "id": 5352782734,
+      "lat": -1.2165556,
+      "lon": 36.7997599
+    },
+    {
+      "type": "node",
+      "id": 5352782735,
+      "lat": -1.2158317,
+      "lon": 36.8000192
+    },
+    {
+      "type": "node",
+      "id": 5352782740,
+      "lat": -1.2162951,
+      "lon": 36.7993541
+    },
+    {
+      "type": "node",
+      "id": 5738615456,
+      "lat": -1.216265,
+      "lon": 36.7999076
+    },
+    {
+      "type": "node",
+      "id": 6164049141,
+      "lat": -1.2159896,
+      "lon": 36.7988931
+    },
+    {
+      "type": "node",
+      "id": 6164049142,
+      "lat": -1.2159281,
+      "lon": 36.7988662
+    },
+    {
+      "type": "node",
+      "id": 6164049143,
+      "lat": -1.2158957,
+      "lon": 36.7988808
+    },
+    {
+      "type": "node",
+      "id": 6164049144,
+      "lat": -1.2159638,
+      "lon": 36.7988697
+    },
+    {
+      "type": "node",
+      "id": 6164049145,
+      "lat": -1.2163426,
+      "lon": 36.7999056
+    },
+    {
+      "type": "node",
+      "id": 6164049146,
+      "lat": -1.2163186,
+      "lon": 36.7998727
+    },
+    {
+      "type": "node",
+      "id": 6164049147,
+      "lat": -1.2162503,
+      "lon": 36.7998834
+    },
+    {
+      "type": "node",
+      "id": 6164049148,
+      "lat": -1.2161792,
+      "lon": 36.799921
+    },
+    {
+      "type": "node",
+      "id": 6164049149,
+      "lat": -1.2161228,
+      "lon": 36.7998354
+    },
+    {
+      "type": "node",
+      "id": 4856144469,
+      "lat": -1.2116535,
+      "lon": 36.7935305
+    },
+    {
+      "type": "node",
+      "id": 4856144470,
+      "lat": -1.2119924,
+      "lon": 36.7938755
+    },
+    {
+      "type": "node",
+      "id": 4856144471,
+      "lat": -1.2123892,
+      "lon": 36.7943008
+    },
+    {
+      "type": "node",
+      "id": 4856144472,
+      "lat": -1.2119013,
+      "lon": 36.7947279
+    },
+    {
+      "type": "node",
+      "id": 4856144473,
+      "lat": -1.2117902,
+      "lon": 36.7947109
+    },
+    {
+      "type": "node",
+      "id": 4856144474,
+      "lat": -1.2117373,
+      "lon": 36.7949245
+    },
+    {
+      "type": "node",
+      "id": 4856144475,
+      "lat": -1.2116352,
+      "lon": 36.7951173
+    },
+    {
+      "type": "node",
+      "id": 4856144476,
+      "lat": -1.2114128,
+      "lon": 36.7953523
+    },
+    {
+      "type": "node",
+      "id": 4856144477,
+      "lat": -1.2112724,
+      "lon": 36.7954518
+    },
+    {
+      "type": "node",
+      "id": 4856144478,
+      "lat": -1.211108,
+      "lon": 36.7955085
+    },
+    {
+      "type": "node",
+      "id": 4856144479,
+      "lat": -1.2109273,
+      "lon": 36.7955469
+    },
+    {
+      "type": "node",
+      "id": 4856144480,
+      "lat": -1.2109359,
+      "lon": 36.796131
+    },
+    {
+      "type": "node",
+      "id": 4856144481,
+      "lat": -1.2108716,
+      "lon": 36.7961184
+    },
+    {
+      "type": "node",
+      "id": 4856144482,
+      "lat": -1.2106385,
+      "lon": 36.7959502
+    },
+    {
+      "type": "node",
+      "id": 4856144483,
+      "lat": -1.2105646,
+      "lon": 36.7959413
+    },
+    {
+      "type": "node",
+      "id": 4856144484,
+      "lat": -1.2104879,
+      "lon": 36.7959532
+    },
+    {
+      "type": "node",
+      "id": 4856144485,
+      "lat": -1.2104053,
+      "lon": 36.7959909
+    },
+    {
+      "type": "node",
+      "id": 4856144486,
+      "lat": -1.210218,
+      "lon": 36.7959622
+    },
+    {
+      "type": "node",
+      "id": 4856144487,
+      "lat": -1.2100309,
+      "lon": 36.7958658
+    },
+    {
+      "type": "node",
+      "id": 4856144488,
+      "lat": -1.209515,
+      "lon": 36.7956049
+    },
+    {
+      "type": "node",
+      "id": 4856144489,
+      "lat": -1.211091,
+      "lon": 36.7940626
+    },
+    {
+      "type": "node",
+      "id": 4856144490,
+      "lat": -1.210286,
+      "lon": 36.7948111
+    },
+    {
+      "type": "node",
+      "id": 4856145005,
+      "lat": -1.2098495,
+      "lon": 36.7952551
+    },
+    {
+      "type": "node",
+      "id": 4856145031,
+      "lat": -1.2115238,
+      "lon": 36.7952613
+    },
+    {
+      "type": "node",
+      "id": 4856145044,
+      "lat": -1.2107981,
+      "lon": 36.7960172
+    },
+    {
+      "type": "node",
+      "id": 4856145045,
+      "lat": -1.2103254,
+      "lon": 36.7960006
+    },
+    {
+      "type": "node",
+      "id": 4856145046,
+      "lat": -1.210708,
+      "lon": 36.7959665
+    },
+    {
+      "type": "node",
+      "id": 6165780675,
+      "lat": -1.2109234,
+      "lon": 36.7956454
+    },
+    {
+      "type": "node",
+      "id": 5352782736,
+      "lat": -1.2155493,
+      "lon": 36.7992913
+    },
+    {
+      "type": "node",
+      "id": 5738615455,
+      "lat": -1.2154706,
+      "lon": 36.7996854
+    },
+    {
+      "type": "node",
+      "id": 6164049150,
+      "lat": -1.2156283,
+      "lon": 36.7999775
+    },
+    {
+      "type": "node",
+      "id": 6164049151,
+      "lat": -1.2154724,
+      "lon": 36.7993716
+    },
+    {
+      "type": "node",
+      "id": 6164049152,
+      "lat": -1.2155358,
+      "lon": 36.7995205
+    },
+    {
+      "type": "node",
+      "id": 2382277570,
+      "lat": -1.2353697,
+      "lon": 36.8111664
+    },
+    {
+      "type": "node",
+      "id": 2382277572,
+      "lat": -1.2354649,
+      "lon": 36.8112013
+    },
+    {
+      "type": "node",
+      "id": 2382277574,
+      "lat": -1.2354957,
+      "lon": 36.8110913
+    },
+    {
+      "type": "node",
+      "id": 2382277576,
+      "lat": -1.2353563,
+      "lon": 36.8110592
+    },
+    {
+      "type": "node",
+      "id": 5352496837,
+      "lat": -1.2374962,
+      "lon": 36.8100332
+    },
+    {
+      "type": "node",
+      "id": 5352496838,
+      "lat": -1.2376879,
+      "lon": 36.8099125
+    },
+    {
+      "type": "node",
+      "id": 5352496839,
+      "lat": -1.2378663,
+      "lon": 36.8102169
+    },
+    {
+      "type": "node",
+      "id": 5352496840,
+      "lat": -1.2378891,
+      "lon": 36.810681
+    },
+    {
+      "type": "node",
+      "id": 5352496841,
+      "lat": -1.2379913,
+      "lon": 36.8101595
+    },
+    {
+      "type": "node",
+      "id": 5352496842,
+      "lat": -1.2381426,
+      "lon": 36.8104578
+    },
+    {
+      "type": "node",
+      "id": 2382277560,
+      "lat": -1.2352758,
+      "lon": 36.8109572
+    },
+    {
+      "type": "node",
+      "id": 2382277562,
+      "lat": -1.2352128,
+      "lon": 36.8110109
+    },
+    {
+      "type": "node",
+      "id": 2382277564,
+      "lat": -1.2352745,
+      "lon": 36.8111088
+    },
+    {
+      "type": "node",
+      "id": 2382277566,
+      "lat": -1.2352289,
+      "lon": 36.8112576
+    },
+    {
+      "type": "node",
+      "id": 2382277568,
+      "lat": -1.2353335,
+      "lon": 36.8112711
+    },
+    {
+      "type": "node",
+      "id": 260340099,
+      "lat": -1.2277992,
+      "lon": 36.8058815
+    },
+    {
+      "type": "node",
+      "id": 260340100,
+      "lat": -1.2275674,
+      "lon": 36.8060507
+    },
+    {
+      "type": "node",
+      "id": 260340102,
+      "lat": -1.2271822,
+      "lon": 36.8052646
+    },
+    {
+      "type": "node",
+      "id": 260340103,
+      "lat": -1.2273202,
+      "lon": 36.8051611
+    },
+    {
+      "type": "node",
+      "id": 651295143,
+      "lat": -1.22769,
+      "lon": 36.8060143
+    },
+    {
+      "type": "node",
+      "id": 1734547090,
+      "lat": -1.2271855,
+      "lon": 36.8052042
+    },
+    {
+      "type": "node",
+      "id": 2458658768,
+      "lat": -1.2276484,
+      "lon": 36.8059185
+    },
+    {
+      "type": "node",
+      "id": 2458658769,
+      "lat": -1.2284122,
+      "lon": 36.8056081
+    },
+    {
+      "type": "node",
+      "id": 2458658770,
+      "lat": -1.2282887,
+      "lon": 36.8053041
+    },
+    {
+      "type": "node",
+      "id": 2536682740,
+      "lat": -1.2285301,
+      "lon": 36.8051083
+    },
+    {
+      "type": "node",
+      "id": 2536682743,
+      "lat": -1.2285351,
+      "lon": 36.8050567
+    },
+    {
+      "type": "node",
+      "id": 2536682782,
+      "lat": -1.2286143,
+      "lon": 36.805023
+    },
+    {
+      "type": "node",
+      "id": 2536682786,
+      "lat": -1.2286566,
+      "lon": 36.8050577
+    },
+    {
+      "type": "node",
+      "id": 2536712938,
+      "lat": -1.2275249,
+      "lon": 36.8056144
+    },
+    {
+      "type": "node",
+      "id": 1762039277,
+      "lat": -1.2256716,
+      "lon": 36.8398639
+    },
+    {
+      "type": "node",
+      "id": 1762039278,
+      "lat": -1.2260623,
+      "lon": 36.8400671
+    },
+    {
+      "type": "node",
+      "id": 1762039279,
+      "lat": -1.2252477,
+      "lon": 36.8392025
+    },
+    {
+      "type": "node",
+      "id": 1762039280,
+      "lat": -1.2252143,
+      "lon": 36.8392822
+    },
+    {
+      "type": "node",
+      "id": 1762039281,
+      "lat": -1.2258792,
+      "lon": 36.8404518
+    },
+    {
+      "type": "node",
+      "id": 1762039282,
+      "lat": -1.2258393,
+      "lon": 36.8394504
+    },
+    {
+      "type": "node",
+      "id": 1762039283,
+      "lat": -1.224787,
+      "lon": 36.8403025
+    },
+    {
+      "type": "node",
+      "id": 2350029776,
+      "lat": -1.2254804,
+      "lon": 36.840593
+    },
+    {
+      "type": "node",
+      "id": 2350029778,
+      "lat": -1.2255902,
+      "lon": 36.8403307
+    },
+    {
+      "type": "node",
+      "id": 5327942865,
+      "lat": -1.2265686,
+      "lon": 36.8389241
+    },
+    {
+      "type": "node",
+      "id": 5327942866,
+      "lat": -1.2263884,
+      "lon": 36.8384841
+    },
+    {
+      "type": "node",
+      "id": 5327942867,
+      "lat": -1.2263519,
+      "lon": 36.8385952
+    },
+    {
+      "type": "node",
+      "id": 5348815014,
+      "lat": -1.2266507,
+      "lon": 36.8385383
+    },
+    {
+      "type": "node",
+      "id": 5360184123,
+      "lat": -1.2258166,
+      "lon": 36.8399302
+    },
+    {
+      "type": "node",
+      "id": 6191599530,
+      "lat": -1.2266074,
+      "lon": 36.8388065
+    },
+    {
+      "type": "node",
+      "id": 6191599531,
+      "lat": -1.226267,
+      "lon": 36.8385787
+    },
+    {
+      "type": "node",
+      "id": 6191599532,
+      "lat": -1.2262358,
+      "lon": 36.8387008
+    },
+    {
+      "type": "node",
+      "id": 6191599533,
+      "lat": -1.2261865,
+      "lon": 36.8386989
+    },
+    {
+      "type": "node",
+      "id": 6191599534,
+      "lat": -1.2261596,
+      "lon": 36.8388194
+    },
+    {
+      "type": "node",
+      "id": 6220298648,
+      "lat": -1.2266331,
+      "lon": 36.8388395
+    },
+    {
+      "type": "node",
+      "id": 6220298649,
+      "lat": -1.226743,
+      "lon": 36.8388664
+    },
+    {
+      "type": "node",
+      "id": 6220298650,
+      "lat": -1.2266813,
+      "lon": 36.8391534
+    },
+    {
+      "type": "node",
+      "id": 6220298651,
+      "lat": -1.2265633,
+      "lon": 36.8391426
+    },
+    {
+      "type": "node",
+      "id": 3336751359,
+      "lat": -1.2323238,
+      "lon": 36.8734354
+    },
+    {
+      "type": "node",
+      "id": 3336751360,
+      "lat": -1.2324131,
+      "lon": 36.873303
+    },
+    {
+      "type": "node",
+      "id": 3336751361,
+      "lat": -1.2325323,
+      "lon": 36.8732699
+    },
+    {
+      "type": "node",
+      "id": 3336751362,
+      "lat": -1.2329461,
+      "lon": 36.8735381
+    },
+    {
+      "type": "node",
+      "id": 3336751363,
+      "lat": -1.2329362,
+      "lon": 36.8741275
+    },
+    {
+      "type": "node",
+      "id": 3336751364,
+      "lat": -1.2326747,
+      "lon": 36.874111
+    },
+    {
+      "type": "node",
+      "id": 3336751365,
+      "lat": -1.2326548,
+      "lon": 36.8737931
+    },
+    {
+      "type": "node",
+      "id": 3336751366,
+      "lat": -1.232582,
+      "lon": 36.8737765
+    },
+    {
+      "type": "node",
+      "id": 3336751367,
+      "lat": -1.2325952,
+      "lon": 36.8736142
+    },
+    {
+      "type": "node",
+      "id": 5209259102,
+      "lat": -1.2323358,
+      "lon": 36.87766
+    },
+    {
+      "type": "node",
+      "id": 5209259103,
+      "lat": -1.2322583,
+      "lon": 36.8777554
+    },
+    {
+      "type": "node",
+      "id": 5209259104,
+      "lat": -1.2320021,
+      "lon": 36.8776645
+    },
+    {
+      "type": "node",
+      "id": 5209259105,
+      "lat": -1.2317577,
+      "lon": 36.8783068
+    },
+    {
+      "type": "node",
+      "id": 5209259106,
+      "lat": -1.2316683,
+      "lon": 36.8783783
+    },
+    {
+      "type": "node",
+      "id": 5209259107,
+      "lat": -1.2319096,
+      "lon": 36.8786809
+    },
+    {
+      "type": "node",
+      "id": 5209259108,
+      "lat": -1.2319439,
+      "lon": 36.8787301
+    },
+    {
+      "type": "node",
+      "id": 5209259109,
+      "lat": -1.2318978,
+      "lon": 36.8787688
+    },
+    {
+      "type": "node",
+      "id": 5209259110,
+      "lat": -1.2320437,
+      "lon": 36.878952
+    },
+    {
+      "type": "node",
+      "id": 5209259111,
+      "lat": -1.2321287,
+      "lon": 36.8789029
+    },
+    {
+      "type": "node",
+      "id": 5209259112,
+      "lat": -1.2321127,
+      "lon": 36.87902
+    },
+    {
+      "type": "node",
+      "id": 5209259113,
+      "lat": -1.2325726,
+      "lon": 36.8792636
+    },
+    {
+      "type": "node",
+      "id": 5209259114,
+      "lat": -1.2326263,
+      "lon": 36.8792367
+    },
+    {
+      "type": "node",
+      "id": 5209259115,
+      "lat": -1.2330747,
+      "lon": 36.8796033
+    },
+    {
+      "type": "node",
+      "id": 5209259116,
+      "lat": -1.2336916,
+      "lon": 36.8788463
+    },
+    {
+      "type": "node",
+      "id": 5209259117,
+      "lat": -1.233635,
+      "lon": 36.8788016
+    },
+    {
+      "type": "node",
+      "id": 5209259118,
+      "lat": -1.233714,
+      "lon": 36.8786883
+    },
+    {
+      "type": "node",
+      "id": 5209259119,
+      "lat": -1.2336379,
+      "lon": 36.8786287
+    },
+    {
+      "type": "node",
+      "id": 5209259120,
+      "lat": -1.2336901,
+      "lon": 36.8785453
+    },
+    {
+      "type": "node",
+      "id": 5209259121,
+      "lat": -1.2334621,
+      "lon": 36.8783873
+    },
+    {
+      "type": "node",
+      "id": 5209259122,
+      "lat": -1.2327067,
+      "lon": 36.8780833
+    },
+    {
+      "type": "node",
+      "id": 5209259123,
+      "lat": -1.2327469,
+      "lon": 36.8779775
+    },
+    {
+      "type": "node",
+      "id": 6247215844,
+      "lat": -1.232252,
+      "lon": 36.8791466
+    },
+    {
+      "type": "node",
+      "id": 6247215845,
+      "lat": -1.232348,
+      "lon": 36.8792337
+    },
+    {
+      "type": "node",
+      "id": 3283729138,
+      "lat": -1.2194011,
+      "lon": 36.8868145
+    },
+    {
+      "type": "node",
+      "id": 3283729139,
+      "lat": -1.2201868,
+      "lon": 36.8891993
+    },
+    {
+      "type": "node",
+      "id": 6168178229,
+      "lat": -1.218733,
+      "lon": 36.8870253
+    },
+    {
+      "type": "node",
+      "id": 6168178230,
+      "lat": -1.2195501,
+      "lon": 36.8893919
+    },
+    {
+      "type": "node",
+      "id": 6224915437,
+      "lat": -1.2198192,
+      "lon": 36.8878993
+    },
+    {
+      "type": "node",
+      "id": 6224915440,
+      "lat": -1.2197978,
+      "lon": 36.8866125
+    },
+    {
+      "type": "node",
+      "id": 6224915441,
+      "lat": -1.2200718,
+      "lon": 36.8873508
+    },
+    {
+      "type": "node",
+      "id": 6224915442,
+      "lat": -1.2196928,
+      "lon": 36.8875173
+    },
+    {
+      "type": "node",
+      "id": 6224915443,
+      "lat": -1.220068,
+      "lon": 36.8885589
+    }
+  ]
+}
