@@ -7,6 +7,7 @@ urlpatterns = [
     # url(r'^products/(?P<search_term>.+)/$', ProductsList.as_view() )
     url(r'^products/', ProductsList.as_view() ),
     url(r'^location/', GetSearcherLocation.as_view()),
+    url(r'^retailers/', GetNearestShop.as_view()),
 ]
 if settings.DEBUG:
     urlpatterns+= static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)

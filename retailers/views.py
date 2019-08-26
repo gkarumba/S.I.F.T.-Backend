@@ -8,6 +8,7 @@ from rest_framework import filters
 from django.contrib.gis.geos import Point
 from django.contrib.gis.db.models.functions import Distance
 from rest_framework.response import Response
+from geopy.distance import vincenty
 # Create your views here.
 
 longitude = 0
@@ -44,3 +45,8 @@ class GetSearcherLocation(generics.CreateAPIView):
             results = UserlocationSerializer(userLocation, many=True).data
             return Response(results)
         
+class GetNearestShop(generics.ListAPIView):
+    model = Retailer
+    serializer_class = RetailerSerializer
+    queryset = Retailer.objects.annotate(distance = Distance('location', user_location)).order_by('distance')[0:6]
+    
