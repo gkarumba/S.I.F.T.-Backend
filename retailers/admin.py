@@ -5,7 +5,8 @@ from django.contrib import admin
 
 from .models import Retailer, Product
 # Register your models here.
-
+@admin.register(Product)
 @admin.register(Retailer)
+
 class RetailerAdmin(OSMGeoAdmin):
-    list_display = ('name', 'location')
+    list_display = ('name','id')
