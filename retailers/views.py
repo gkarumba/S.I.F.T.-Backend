@@ -65,12 +65,3 @@ class GetNearestShop(APIView):
             result = RetailerSerializer(results, many=True)
             return Response(result.data, status=status.HTTP_201_CREATED)
         return Response(data={"error":"Bad request"}, status=status.HTTP_400_BAD_REQUEST)
-    
-    
-    
-    
-    
-    # model = Retailer
-    # serializer_class = RetailerSerializer
-    # queryset = Retailer.objects.annotate(distance = Distance('location', user_location)).order_by('distance')[0:6]
-    
