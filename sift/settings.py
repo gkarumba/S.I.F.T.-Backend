@@ -103,14 +103,34 @@ WSGI_APPLICATION = 'sift.wsgi.application'
 #         'PORT': '5432'
 #     }
 # }
+# DATABASES = {
+#    'default': dj_database_url.config(
+#        default=config('DATABASE_URL')
+#    )
+# }
+# # ​
+# db_from_env = dj_database_url.config(conn_max_age=500)
+# DATABASES['default'].update(db_from_env)
+
+# if config('MODE')=="dev":
+#    DATABASES = {
+#        'default': {
+#            'ENGINE': 'django.contrib.gis.db.backends.postgis',
+#            'NAME': config('DB_NAME'),
+#            'USER': config('DB_USER'),
+#            'PASSWORD': config('DB_PASSWORD'),
+#            'HOST': config('DB_HOST'),
+#            'PORT': '',
+#        }
+       
+#    }
+# # production
+# else:
+db_config = dj_database_url.config(default=config('DATABASE_URL'))
+db_config['ENGINE'] = 'django.contrib.gis.db.backends.postgis'
 DATABASES = {
-   'default': dj_database_url.config(
-       default=config('DATABASE_URL')
-   )
+    'default': db_config
 }
-# ​
-db_from_env = dj_database_url.config(conn_max_age=500)
-DATABASES['default'].update(db_from_env)
 # ​
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
 # 
