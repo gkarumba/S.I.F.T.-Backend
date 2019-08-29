@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/home/gkarumba/Desktop/MPFT18/Core Material/ProDev/S.I.F.T. Backend/virtual"
+setenv VIRTUAL_ENV "/home/florence/S.I.F.T.-Backend/virtual"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

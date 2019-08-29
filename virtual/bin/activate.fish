@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/gkarumba/Desktop/MPFT18/Core Material/ProDev/S.I.F.T. Backend/virtual"
+set -gx VIRTUAL_ENV "/home/florence/S.I.F.T.-Backend/virtual"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

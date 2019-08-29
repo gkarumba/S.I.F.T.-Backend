@@ -11,7 +11,14 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 """
 
 import os
+from os import environ
+import django_heroku
+import dj_database_url
+from decouple import config,Csv
 
+MODE=config('MODE', default="dev")
+SECRET_KEY = '342s(s(!hsjd998sde8$=o4$3m!(o+kce2^97kp6#ujhi'
+DEBUG = config('DEBUG', default=False, cast=bool)
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -20,14 +27,15 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = ')&-ljw7fdz5k)6elmmpo!ub&+#$wsf=++3x8#(vy=lu4xgao4q'
+# SECRET_KEY = ')&-ljw7fdz5k)6elmmpo!ub&+#$wsf=++3x8#(vy=lu4xgao4q'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+GEOS_LIBRARY_PATH = environ.get('GEOS_LIBRARY_PATH')
+GDAL_LIBRARY_PATH = environ.get('GDAL_LIBRARY_PATH')
 # Application definition
 
 INSTALLED_APPS = [
@@ -37,6 +45,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'corsheaders',
     'retailers',
     'django.contrib.gis',
     'rest_framework',
@@ -45,12 +54,17 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
+
+CORS_ORIGIN_ALLOW_ALL=True
+CORS_ALLOW_CREDENTIALS = True
 
 ROOT_URLCONF = 'sift.urls'
 
@@ -84,19 +98,49 @@ WSGI_APPLICATION = 'sift.wsgi.application'
 #     }
 # }
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.contrib.gis.db.backends.postgis',
+#         'NAME': 'gis',
+#         'USER': 'florence',
+#         'PASSWORD': 'kambo',
+#         'HOST': 'localhost',
+#         'PORT': '5432'
+#     }
+# }
+# DATABASES = {
+#    'default': dj_database_url.config(
+#        default=config('DATABASE_URL')
+#    )
+# }
+# # ​
+# db_from_env = dj_database_url.config(conn_max_age=500)
+# DATABASES['default'].update(db_from_env)
+
+# if config('MODE')=="dev":
+#    DATABASES = {
+#        'default': {
+#            'ENGINE': 'django.contrib.gis.db.backends.postgis',
+#            'NAME': config('DB_NAME'),
+#            'USER': config('DB_USER'),
+#            'PASSWORD': config('DB_PASSWORD'),
+#            'HOST': config('DB_HOST'),
+#            'PORT': '',
+#        }
+       
+#    }
+# # production
+# else:
+db_config = dj_database_url.config(default=config('DATABASE_URL'))
+db_config['ENGINE'] = 'django.contrib.gis.db.backends.postgis'
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'gis',
-        'USER': 'postgres',
-        'PASSWORD': '123456',
-        'HOST': 'localhost',
-        'PORT': '5432'
-    }
+    'default': db_config
 }
-
-
-
+# ​
+ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
+# 
+# 
+# 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
 
@@ -115,7 +159,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/1.11/topics/i18n/
 
@@ -133,6 +176,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 
@@ -143,3 +188,6 @@ STATICFILES_DIRS = (
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+# Configure Django App for Heroku.
+django_heroku.settings(locals(), databases=False)

@@ -17,13 +17,11 @@ longitude = 0
 latitude = 0
 user_location = Point(longitude, latitude, srid=4326)
 
-
 class ProductsList(generics.ListCreateAPIView):
     search_fields = ['image', 'name']
     filter_backends = (filters.SearchFilter,)
     serializer_class = ProductSerializer
     queryset = Product.objects.all()
-    # print(queryset)
     
 class GetSearcherLocation(generics.CreateAPIView):
     serializer_class = UserlocationSerializer
@@ -52,16 +50,14 @@ class GetNearestShop(APIView):
         queryset = Retailer.objects.all()
         result = RetailerSerializer(queryset, many=True)
         return Response(result.data, status=status.HTTP_200_OK)
-    
     def post(self,request,*args,**kwargs):
         lat = request.data.get('latitude','')
         lon = request.data.get('longitude','')
-        
         if lat is not None and lon is not None:
-            latitude = float(lat)
-            longitude = float(lon)
-            user_location = Point(longitude, latitude, srid=4326)
-            results = Retailer.objects.annotate(distance = Distance('location', user_location)).order_by('distance')
-            result = RetailerSerializer(results, many=True)
-            return Response(result.data, status=status.HTTP_201_CREATED)
+           latitude = float(lat)
+           longitude = float(lon)
+           user_location = Point(longitude, latitude, srid=4326)
+           results = Retailer.objects.annotate(distance = Distance('location', user_location)/1000 ).order_by('distance')
+           result = RetailerSerializer(results, many=True)
+           return Response(result.data, status=status.HTTP_201_CREATED)
         return Response(data={"error":"Bad request"}, status=status.HTTP_400_BAD_REQUEST)
